@@ -1,0 +1,4 @@
+baseURL = 'https://mack.sh/'
+languageCode = 'en-us'
+title = 'McSite'
+theme = 'ananke'
