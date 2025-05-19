@@ -3,7 +3,7 @@ languageCode = 'en-us'
 title = 'McSite'
 theme = 'ananke'
 [params]
-  subtitle = 'jtmack\'s site'
+  subtitle = 'jtmack site'
   [params.contact]
     email = 'jim@mack.sh'
     phone = '+1 (415) 805-1415'
