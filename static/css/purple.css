@@ -1,0 +1,7 @@
+body {
+  --primary: #6b46bc !important;      /* Main accent purple */
+  --primary-dark: #5523ca !important; /* Darker purple for contrast */
+  --primary-light: #441bac !important;/* Lighter purple for highlights */
+  --secondary: #7139e9 !important;
+  --accent: #5b21eb !important;
+}

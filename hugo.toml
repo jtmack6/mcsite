@@ -26,6 +26,7 @@ pagination.pagerSize = 5
   # center theme with default width
   centerTheme = false
 
+
   # if your resource directory contains an image called `cover.(jpg|png|webp)`,
   # then the file will be used as a cover automatically.
   # With this option you don't have to put the `cover` param in a front-matter.
@@ -63,6 +64,7 @@ pagination.pagerSize = 5
   # Example format, with date, time, and timezone abbreviation:
   # dateFormat = "2006-01-02 3:04:06 PM MST"
 
+ # themeColor = "purple"
 
 [params.twitter]
   # set Twitter handles for Twitter cards
