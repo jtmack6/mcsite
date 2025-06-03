@@ -74,10 +74,10 @@ pagination.pagerSize = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Terminal"
+    title = "mack.sh"
 
     [languages.en.params]
-      subtitle = "A simple, retro theme for Hugo"
+      subtitle = "Jim Mack's site"
       owner = ""
       keywords = ""
       copyright = ""
