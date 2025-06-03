@@ -1,0 +1,5 @@
+   body {
+     --primary: #00ff41 !important; /* Matrix green */
+     --primary-dark: #00b33c !important;
+     --primary-light: #33ff57 !important;
+   }
