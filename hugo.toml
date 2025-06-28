@@ -79,7 +79,7 @@ pagination.pagerSize = 5
     title = "mack.sh"
 
     [languages.en.params]
-      subtitle = "Jim Mack's site"
+      subtitle = "McSite"
       owner = ""
       keywords = ""
       copyright = ""
