@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = 'https://www.mack.sh/'
 languageCode = "en-us"
 # Add it only if you keep the theme in the `themes` directory.
 # Remove it if you use the theme as a remote Hugo Module.
@@ -8,6 +8,9 @@ pagination.pagerSize = 5
 # Required for Chroma and the custom syntax highlighting.
 [markup.highlight]
   noClasses = false
+
+[markup.goldmark.renderer]
+  unsafe = true
 
 [params]
   # dir name of your main content (default is `content/posts`).
@@ -64,7 +67,7 @@ pagination.pagerSize = 5
   # Example format, with date, time, and timezone abbreviation:
   # dateFormat = "2006-01-02 3:04:06 PM MST"
 
- # themeColor = "purple"
+  themeColor = "terminal"
 
 [params.twitter]
   # set Twitter handles for Twitter cards
@@ -103,9 +106,9 @@ pagination.pagerSize = 5
           name = "About"
           url = "/about"
         [[languages.en.menu.main]]
-          identifier = "showcase"
-          name = "Showcase"
-          url = "/showcase"
+          identifier = "stuff"
+          name = "Stuff"
+          url = "/stuff"
 
 [module]
 # In case you would like to make changes to the theme and keep it locally in you repository,

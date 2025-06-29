@@ -1,0 +1,36 @@
+pre.asciiart {
+    font-family: 'Fira Mono', 'Consolas', 'Menlo', monospace;
+    font-size: 1.1em;
+    line-height: 0.8;
+    background: none;
+    border: none;
+    padding: 0;
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+  }
+  
+  pre.asciiart span {
+    display: inline-block;
+    line-height: 1;
+    padding: 0;
+    margin: 0;
+  }
+
+  .asciiart-frame {
+    display: inline-block;
+    border: 3px solid var(--accent, #eec35e);
+    border-radius: 8px;
+    background: #222;
+    padding: 16px;
+    margin: 2rem auto;         /* Top/bottom space, auto left/right for centering */
+    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+  }
+  
+  /* Center the frame's container */
+  .asciiart-frame {
+    display: block;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+  }
