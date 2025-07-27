@@ -1,0 +1,28 @@
+{{ $scrobbles := resources.Get "data/scrobbles.json" | transform.Unmarshal }}
+
+<div class="scrobbles-container">
+  <h2>Recent Scrobbles</h2>
+  
+  {{ if $scrobbles }}
+    <div class="scrobbles-list">
+      {{ range $scrobbles }}
+        <div class="scrobble-item">
+          <div class="scrobble-info">
+            <div class="track-title">
+              <a href="{{ .url }}" target="_blank" rel="noopener">{{ .track }}</a>
+            </div>
+            <div class="artist-name">{{ .artist }}</div>
+            {{ if .album }}
+              <div class="album-name">{{ .album }}</div>
+            {{ end }}
+          </div>
+          <div class="scrobble-time">
+            {{ time.Format "Jan 2, 2006 3:04 PM" .timestamp }}
+          </div>
+        </div>
+      {{ end }}
+    </div>
+  {{ else }}
+    <p>No recent scrobbles available.</p>
+  {{ end }}
+</div>
