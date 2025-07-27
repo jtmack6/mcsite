@@ -3,7 +3,7 @@
 <div class="scrobbles-container">
   <h2>Recent Scrobbles</h2>
   
-  {{ if $scrobbles }}
+  {{ if and $scrobbles (gt (len $scrobbles) 0) }}
     <div class="scrobbles-list">
       {{ range $scrobbles }}
         <div class="scrobble-item">
@@ -23,6 +23,6 @@
       {{ end }}
     </div>
   {{ else }}
-    <p>No recent scrobbles available.</p>
+    <p>No recent scrobbles available. <em>Scrobbles are updated automatically every 6 hours.</em></p>
   {{ end }}
 </div>

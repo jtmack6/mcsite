@@ -9,7 +9,6 @@
 
 # Sensitive data
 data/scrobbles.json
-assets/data/scrobbles.json
 
 # Dynamic files (not using these approaches)
 layouts/shortcodes/scrobbles-dynamic.html
