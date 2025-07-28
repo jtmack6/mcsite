@@ -6,6 +6,12 @@ on:
     - cron: '0 */6 * * *'
   workflow_dispatch: # Allow manual trigger
 
+permissions:
+  contents: read
+  deployments: write
+  pages: write
+  id-token: write
+
 jobs:
   update-scrobbles:
     runs-on: ubuntu-latest
