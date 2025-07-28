@@ -46,9 +46,7 @@ jobs:
         git config --local user.name "GitHub Action"
         git add assets/data/scrobbles.json
         git commit -m "Update scrobbles [skip ci]" || exit 0
-        git push origin main
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        git push https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }}.git main
         
     - name: Build Hugo site
       run: |
