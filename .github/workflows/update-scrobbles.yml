@@ -40,6 +40,16 @@ jobs:
         go mod download
         go run scripts/fetch-scrobbles.go
         
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add assets/data/scrobbles.json
+        git commit -m "Update scrobbles [skip ci]" || exit 0
+        git push origin main
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        
     - name: Build Hugo site
       run: |
         hugo --minify
@@ -50,5 +60,4 @@ jobs:
         apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
         accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
         projectName: mcsite
-        directory: public
-        gitHubToken: ${{ secrets.GITHUB_TOKEN }} 
+        directory: public 
