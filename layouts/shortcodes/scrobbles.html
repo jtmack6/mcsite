@@ -1,22 +1,49 @@
+{{ $scrobbles := resources.Get "data/scrobbles.json" | transform.Unmarshal }}
+
 <div class="scrobbles-container">
   <h2>Recent Scrobbles</h2>
   
-  <div class="scrobbles-list">
-    <div class="scrobble-item">
-      <div class="scrobble-info">
-        <div class="track-title">
-          <em>Scrobbles are updated automatically every 6 hours via GitHub Actions.</em>
+  {{ if and $scrobbles (gt (len $scrobbles) 0) }}
+    <div class="scrobbles-list">
+      {{ range $scrobbles }}
+        <div class="scrobble-item">
+          <div class="scrobble-info">
+            <div class="track-title">
+              <a href="{{ .url }}" target="_blank" rel="noopener">{{ .track }}</a>
+            </div>
+            <div class="artist-name">
+              {{ .artist }}
+            </div>
+            {{ if .album }}
+              <div class="album-name">
+                {{ .album }}
+              </div>
+            {{ end }}
+          </div>
+          <div class="scrobble-time">
+            {{ time.Format "Jan 2, 2006 3:04 PM" .timestamp }}
+          </div>
         </div>
-        <div class="artist-name">
-          This page displays my Last.fm listening history.
+      {{ end }}
+    </div>
+  {{ else }}
+    <div class="scrobbles-list">
+      <div class="scrobble-item">
+        <div class="scrobble-info">
+          <div class="track-title">
+            <em>No scrobbles available at the moment.</em>
+          </div>
+          <div class="artist-name">
+            Scrobbles are updated automatically every 6 hours via GitHub Actions.
+          </div>
+          <div class="album-name">
+            Check back soon for recent tracks!
+          </div>
         </div>
-        <div class="album-name">
-          Check back soon for recent tracks!
+        <div class="scrobble-time">
+          Updated automatically
         </div>
-      </div>
-      <div class="scrobble-time">
-        Updated automatically
       </div>
     </div>
-  </div>
+  {{ end }}
 </div>
