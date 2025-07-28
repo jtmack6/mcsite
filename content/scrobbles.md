@@ -1,6 +1,6 @@
 ---
 title: "Scrobbles"
-date: 2024-06-09
+date: 2025-07-27
 ---
 
 # My Music Scrobbles

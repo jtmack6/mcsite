@@ -1,5 +1,5 @@
 +++
-date = '2025-05-19T15:18:01-07:00'
+date = '2025-07-25T15:18:01-07:00'
 draft = false
 title = "If you can't get out of it, get into it!"
 +++
