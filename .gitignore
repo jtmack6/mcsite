@@ -13,3 +13,5 @@ data/scrobbles.json
 # Dynamic files (not using these approaches)
 layouts/shortcodes/scrobbles-dynamic.html
 functions/
+CLAUDE.md
+
