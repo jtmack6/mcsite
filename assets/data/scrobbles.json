@@ -1,5 +1,33 @@
 [
   {
+    "artist": "Dropkick Murphys",
+    "track": "Get Up",
+    "album": "Do or Die",
+    "timestamp": "2025-08-01T20:32:04Z",
+    "url": "https://www.last.fm/music/Dropkick+Murphys/_/Get+Up"
+  },
+  {
+    "artist": "Dropkick Murphys",
+    "track": "Do Or Die",
+    "album": "Do or Die",
+    "timestamp": "2025-08-01T20:30:13Z",
+    "url": "https://www.last.fm/music/Dropkick+Murphys/_/Do+Or+Die"
+  },
+  {
+    "artist": "Dropkick Murphys",
+    "track": "Cadence to Arms",
+    "album": "Do or Die",
+    "timestamp": "2025-08-01T20:28:22Z",
+    "url": "https://www.last.fm/music/Dropkick+Murphys/_/Cadence+to+Arms"
+  },
+  {
+    "artist": "Dropkick Murphys",
+    "track": "Worker's Song",
+    "album": "Blackout",
+    "timestamp": "2025-08-01T20:24:29Z",
+    "url": "https://www.last.fm/music/Dropkick+Murphys/_/Worker%27s+Song"
+  },
+  {
     "artist": "Temple of Void",
     "track": "Dissolution",
     "album": "Summoning the Slayer",
@@ -110,33 +138,5 @@
     "album": "Suffer the Children - EP",
     "timestamp": "2025-07-29T00:16:35Z",
     "url": "https://www.last.fm/music/Napalm+Death/_/Suffer+the+Children"
-  },
-  {
-    "artist": "Primus",
-    "track": "Harold of the Rocks",
-    "album": "Frizzle Fry (Remastered)",
-    "timestamp": "2025-07-29T00:11:50Z",
-    "url": "https://www.last.fm/music/Primus/_/Harold+of+the+Rocks"
-  },
-  {
-    "artist": "Primus",
-    "track": "Spegetti Western",
-    "album": "Frizzle Fry (Remastered)",
-    "timestamp": "2025-07-29T00:06:09Z",
-    "url": "https://www.last.fm/music/Primus/_/Spegetti+Western"
-  },
-  {
-    "artist": "Primus",
-    "track": "Pudding Time",
-    "album": "Frizzle Fry (Remastered)",
-    "timestamp": "2025-07-29T00:01:36Z",
-    "url": "https://www.last.fm/music/Primus/_/Pudding+Time"
-  },
-  {
-    "artist": "Primus",
-    "track": "The Toys Go Winding Down",
-    "album": "Frizzle Fry (Remastered)",
-    "timestamp": "2025-07-28T23:57:01Z",
-    "url": "https://www.last.fm/music/Primus/_/The+Toys+Go+Winding+Down"
   }
 ]
