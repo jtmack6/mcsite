@@ -1,5 +1,12 @@
 [
   {
+    "artist": "Crosby, Stills, Nash \u0026 Young",
+    "track": "Almost Cut My Hair",
+    "album": "Déjà Vu",
+    "timestamp": "2025-08-02T20:56:38Z",
+    "url": "https://www.last.fm/music/Crosby,+Stills,+Nash+\u0026+Young/_/Almost+Cut+My+Hair"
+  },
+  {
     "artist": "Dropkick Murphys",
     "track": "Get Up",
     "album": "Do or Die",
@@ -131,12 +138,5 @@
     "album": "Thaumiel",
     "timestamp": "2025-07-29T00:23:16Z",
     "url": "https://www.last.fm/music/Ofermod/_/Sisters+Of+Rapture+And+Pestilence"
-  },
-  {
-    "artist": "Napalm Death",
-    "track": "Suffer the Children",
-    "album": "Suffer the Children - EP",
-    "timestamp": "2025-07-29T00:16:35Z",
-    "url": "https://www.last.fm/music/Napalm+Death/_/Suffer+the+Children"
   }
 ]
