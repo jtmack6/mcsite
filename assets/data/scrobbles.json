@@ -1,5 +1,12 @@
 [
   {
+    "artist": "GG Allin",
+    "track": "Die When You Die",
+    "album": "Freaks, Faggots, Drunks \u0026 Junkies",
+    "timestamp": "2025-08-05T08:46:01Z",
+    "url": "https://www.last.fm/music/GG+Allin/_/Die+When+You+Die"
+  },
+  {
     "artist": "Mdou Moctar",
     "track": "Untitled",
     "album": "Afrique Victime",
@@ -131,12 +138,5 @@
     "album": "Trey Anastasio",
     "timestamp": "2025-08-03T19:22:50Z",
     "url": "https://www.last.fm/music/Trey+Anastasio/_/Drifting"
-  },
-  {
-    "artist": "Altin Gün",
-    "track": "Rakıya Su Katamam",
-    "album": "Aşk",
-    "timestamp": "2025-08-03T16:21:07Z",
-    "url": "https://www.last.fm/music/Altin+G%C3%BCn/_/Rak%C4%B1ya+Su+Katamam"
   }
 ]
