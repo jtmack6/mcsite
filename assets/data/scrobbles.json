@@ -1,5 +1,12 @@
 [
   {
+    "artist": "Black Sabbath",
+    "track": "Never Say Die",
+    "album": "Never Say Die!",
+    "timestamp": "2025-08-14T06:28:42Z",
+    "url": "https://www.last.fm/music/Black+Sabbath/_/Never+Say+Die"
+  },
+  {
     "artist": "Darkways",
     "track": "Resonance",
     "album": "Resonance",
@@ -131,12 +138,5 @@
     "album": "Oyun Havaları",
     "timestamp": "2025-08-09T20:11:04Z",
     "url": "https://www.last.fm/music/Zafer+Dilek/_/C%CC%A7ic%CC%A7ekler+Ekiliyor"
-  },
-  {
-    "artist": "Acid Arab \u0026 Cem Yildiz",
-    "track": "Döne Döne",
-    "album": "Trois",
-    "timestamp": "2025-08-09T20:05:18Z",
-    "url": "https://www.last.fm/music/Acid+Arab+\u0026+Cem+Yildiz/_/Do%CC%88ne+Do%CC%88ne"
   }
 ]
