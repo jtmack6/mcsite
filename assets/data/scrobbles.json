@@ -1,5 +1,47 @@
 [
   {
+    "artist": "Judas Priest",
+    "track": "Starbreaker",
+    "album": "Sin After Sin (Bonus Track Version)",
+    "timestamp": "2025-08-14T08:07:09Z",
+    "url": "https://www.last.fm/music/Judas+Priest/_/Starbreaker"
+  },
+  {
+    "artist": "Judas Priest",
+    "track": "Diamonds and Rust",
+    "album": "Sin After Sin (Bonus Track Version)",
+    "timestamp": "2025-08-14T08:03:45Z",
+    "url": "https://www.last.fm/music/Judas+Priest/_/Diamonds+and+Rust"
+  },
+  {
+    "artist": "Judas Priest",
+    "track": "Sinner",
+    "album": "Sin After Sin (Bonus Track Version)",
+    "timestamp": "2025-08-14T07:57:01Z",
+    "url": "https://www.last.fm/music/Judas+Priest/_/Sinner"
+  },
+  {
+    "artist": "Black Sabbath",
+    "track": "TV Crimes",
+    "album": "Dehumanizer",
+    "timestamp": "2025-08-14T06:48:02Z",
+    "url": "https://www.last.fm/music/Black+Sabbath/_/TV+Crimes"
+  },
+  {
+    "artist": "Black Sabbath",
+    "track": "After All (The Dead)",
+    "album": "Dehumanizer",
+    "timestamp": "2025-08-14T06:42:20Z",
+    "url": "https://www.last.fm/music/Black+Sabbath/_/After+All+(The+Dead)"
+  },
+  {
+    "artist": "Black Sabbath",
+    "track": "Computer God",
+    "album": "Dehumanizer",
+    "timestamp": "2025-08-14T06:36:05Z",
+    "url": "https://www.last.fm/music/Black+Sabbath/_/Computer+God"
+  },
+  {
     "artist": "Black Sabbath",
     "track": "Never Say Die",
     "album": "Never Say Die!",
@@ -96,47 +138,5 @@
     "album": "Resonance",
     "timestamp": "2025-08-09T20:40:34Z",
     "url": "https://www.last.fm/music/Darkways/_/Inexistence"
-  },
-  {
-    "artist": "Darkways",
-    "track": "I like the night (and the night likes me)",
-    "album": "Resonance",
-    "timestamp": "2025-08-09T20:36:54Z",
-    "url": "https://www.last.fm/music/Darkways/_/I+like+the+night+(and+the+night+likes+me)"
-  },
-  {
-    "artist": "Darkways",
-    "track": "Dark \u0026 Light",
-    "album": "Resonance",
-    "timestamp": "2025-08-09T20:33:18Z",
-    "url": "https://www.last.fm/music/Darkways/_/Dark+\u0026+Light"
-  },
-  {
-    "artist": "Darkways",
-    "track": "I like the night (and the night likes me)",
-    "album": "Neon Lights - EP",
-    "timestamp": "2025-08-09T20:24:30Z",
-    "url": "https://www.last.fm/music/Darkways/_/I+like+the+night+(and+the+night+likes+me)"
-  },
-  {
-    "artist": "ENGIN",
-    "track": "Ayva Çiçek Açmış",
-    "album": "Mesafeler",
-    "timestamp": "2025-08-09T20:20:53Z",
-    "url": "https://www.last.fm/music/ENGIN/_/Ayva+%C3%87i%C3%A7ek+A%C3%A7m%C4%B1%C5%9F"
-  },
-  {
-    "artist": "Baba Zula",
-    "track": "Arsız Saksağan",
-    "album": "İstanbul Sokakları",
-    "timestamp": "2025-08-09T20:13:39Z",
-    "url": "https://www.last.fm/music/Baba+Zula/_/Ars%C4%B1z+Saksa%C4%9Fan"
-  },
-  {
-    "artist": "Zafer Dilek",
-    "track": "Çiçekler Ekiliyor",
-    "album": "Oyun Havaları",
-    "timestamp": "2025-08-09T20:11:04Z",
-    "url": "https://www.last.fm/music/Zafer+Dilek/_/C%CC%A7ic%CC%A7ekler+Ekiliyor"
   }
 ]
