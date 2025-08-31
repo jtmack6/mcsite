@@ -1,6 +1,27 @@
 [
   {
     "artist": "Altin Gün",
+    "track": "Süpürgesi Yoncadan",
+    "album": "Gece",
+    "timestamp": "2025-08-31T01:53:10Z",
+    "url": "https://www.last.fm/music/Altin+G%C3%BCn/_/S%C3%BCp%C3%BCrgesi+Yoncadan"
+  },
+  {
+    "artist": "Altin Gün",
+    "track": "Gesi Bağları",
+    "album": "Gece",
+    "timestamp": "2025-08-31T01:51:08Z",
+    "url": "https://www.last.fm/music/Altin+G%C3%BCn/_/Gesi+Ba%C4%9Flar%C4%B1"
+  },
+  {
+    "artist": "Altin Gün",
+    "track": "Ervah-i Ezelde",
+    "album": "Gece",
+    "timestamp": "2025-08-31T01:46:23Z",
+    "url": "https://www.last.fm/music/Altin+G%C3%BCn/_/Ervah-i+Ezelde"
+  },
+  {
+    "artist": "Altin Gün",
     "track": "Kolbasti",
     "album": "Gece",
     "timestamp": "2025-08-31T01:42:57Z",
@@ -117,26 +138,5 @@
     "album": "Resonance",
     "timestamp": "2025-08-13T19:42:46Z",
     "url": "https://www.last.fm/music/Darkways/_/Madness"
-  },
-  {
-    "artist": "Darkways",
-    "track": "Neon Lights",
-    "album": "Resonance",
-    "timestamp": "2025-08-13T19:37:44Z",
-    "url": "https://www.last.fm/music/Darkways/_/Neon+Lights"
-  },
-  {
-    "artist": "Darkways",
-    "track": "Inexistence",
-    "album": "Resonance",
-    "timestamp": "2025-08-13T19:33:33Z",
-    "url": "https://www.last.fm/music/Darkways/_/Inexistence"
-  },
-  {
-    "artist": "Darkways",
-    "track": "I like the night (and the night likes me)",
-    "album": "Resonance",
-    "timestamp": "2025-08-13T19:29:52Z",
-    "url": "https://www.last.fm/music/Darkways/_/I+like+the+night+(and+the+night+likes+me)"
   }
 ]
