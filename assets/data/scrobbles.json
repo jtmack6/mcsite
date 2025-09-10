@@ -1,5 +1,12 @@
 [
   {
+    "artist": "Amity",
+    "track": "Sanctuary Minds",
+    "album": "Sanctuary Minds - EP",
+    "timestamp": "2025-09-09T09:40:52Z",
+    "url": "https://www.last.fm/music/Amity/_/Sanctuary+Minds"
+  },
+  {
     "artist": "fA1th",
     "track": "Mumbai Diaries",
     "album": "Mumbai Diaries - Single",
@@ -131,12 +138,5 @@
     "album": "Borderland",
     "timestamp": "2025-09-08T07:15:56Z",
     "url": "https://www.last.fm/music/Amorphis/_/Dancing+Shadow"
-  },
-  {
-    "artist": "The Meditations",
-    "track": "Being a Dread Is No Crime",
-    "album": "Wake Up!",
-    "timestamp": "2025-09-08T07:11:59Z",
-    "url": "https://www.last.fm/music/The+Meditations/_/Being+a+Dread+Is+No+Crime"
   }
 ]
