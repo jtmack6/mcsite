@@ -1,5 +1,12 @@
 [
   {
+    "artist": "King Crimson",
+    "track": "Red",
+    "album": "Red",
+    "timestamp": "2025-09-20T00:47:12Z",
+    "url": "https://www.last.fm/music/King+Crimson/_/Red"
+  },
+  {
     "artist": "Ultra Bra",
     "track": "Hei kuule Suomi",
     "album": "Kalifornia",
@@ -131,12 +138,5 @@
     "album": "In the Kingdom of Dub",
     "timestamp": "2025-09-14T01:14:10Z",
     "url": "https://www.last.fm/music/Scientist/_/Next+Door+Dub"
-  },
-  {
-    "artist": "Scientist",
-    "track": "18 Dromilly Avenue Dub",
-    "album": "In the Kingdom of Dub",
-    "timestamp": "2025-09-14T01:11:03Z",
-    "url": "https://www.last.fm/music/Scientist/_/18+Dromilly+Avenue+Dub"
   }
 ]
