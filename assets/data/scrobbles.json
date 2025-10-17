@@ -1,5 +1,96 @@
 [
   {
+    "artist": "Ennio Morricone",
+    "track": "Giallo per due pianoforti (From \"Quando l'amore è sensualità\" / Remastered 2022)",
+    "album": "Scream Morricone",
+    "timestamp": "2025-10-16T19:22:09Z",
+    "url": "https://www.last.fm/music/Ennio+Morricone/_/Giallo+per+due+pianoforti+(From+%22Quando+l%27amore+%C3%A8+sensualit%C3%A0%22+%2F+Remastered+2022)"
+  },
+  {
+    "artist": "Ennio Morricone",
+    "track": "Non può essere vero (From \"Mio caro assassino\")",
+    "album": "Scream Morricone",
+    "timestamp": "2025-10-16T19:20:21Z",
+    "url": "https://www.last.fm/music/Ennio+Morricone/_/Non+pu%C3%B2+essere+vero+(From+%22Mio+caro+assassino%22)"
+  },
+  {
+    "artist": "Ennio Morricone",
+    "track": "Il Buio Tanta Paura",
+    "album": "Scream Morricone",
+    "timestamp": "2025-10-16T19:18:34Z",
+    "url": "https://www.last.fm/music/Ennio+Morricone/_/Il+Buio+Tanta+Paura"
+  },
+  {
+    "artist": "Ennio Morricone",
+    "track": "Mio caro assassino",
+    "album": "Scream Morricone",
+    "timestamp": "2025-10-16T19:16:18Z",
+    "url": "https://www.last.fm/music/Ennio+Morricone/_/Mio+caro+assassino"
+  },
+  {
+    "artist": "Edda Dell'Orso",
+    "track": "L'abbraccio caldo della tarantola",
+    "album": "Scream Morricone",
+    "timestamp": "2025-10-16T19:12:15Z",
+    "url": "https://www.last.fm/music/Edda+Dell%27Orso/_/L%27abbraccio+caldo+della+tarantola"
+  },
+  {
+    "artist": "Edda Dell'Orso",
+    "track": "Coiffeur pour dames (titoli)",
+    "album": "Scream Morricone",
+    "timestamp": "2025-10-16T19:09:22Z",
+    "url": "https://www.last.fm/music/Edda+Dell%27Orso/_/Coiffeur+pour+dames+(titoli)"
+  },
+  {
+    "artist": "Ennio Morricone",
+    "track": "La Tarantola Dal Ventre Nero",
+    "album": "Scream Morricone",
+    "timestamp": "2025-10-16T19:03:14Z",
+    "url": "https://www.last.fm/music/Ennio+Morricone/_/La+Tarantola+Dal+Ventre+Nero"
+  },
+  {
+    "artist": "Ennio Morricone",
+    "track": "Una strana ragazza (From \"Senza sapere niente di lei\" Soundtrack / Remastered 2023)",
+    "album": "Scream Morricone",
+    "timestamp": "2025-10-16T19:00:20Z",
+    "url": "https://www.last.fm/music/Ennio+Morricone/_/Una+strana+ragazza+(From+%22Senza+sapere+niente+di+lei%22+Soundtrack+%2F+Remastered+2023)"
+  },
+  {
+    "artist": "Ennio Morricone",
+    "track": "Senza sapere niente di lei (From \"Senza sapere niente di lei\" Soundtrack / Remastered 2023 / Titoli)",
+    "album": "Scream Morricone",
+    "timestamp": "2025-10-16T18:58:14Z",
+    "url": "https://www.last.fm/music/Ennio+Morricone/_/Senza+sapere+niente+di+lei+(From+%22Senza+sapere+niente+di+lei%22+Soundtrack+%2F+Remastered+2023+%2F+Titoli)"
+  },
+  {
+    "artist": "Ennio Morricone",
+    "track": "Passaggio Terzo",
+    "album": "Scream Morricone",
+    "timestamp": "2025-10-16T18:56:17Z",
+    "url": "https://www.last.fm/music/Ennio+Morricone/_/Passaggio+Terzo"
+  },
+  {
+    "artist": "Ennio Morricone",
+    "track": "Con Voce Strozzata",
+    "album": "Scream Morricone",
+    "timestamp": "2025-10-16T18:54:35Z",
+    "url": "https://www.last.fm/music/Ennio+Morricone/_/Con+Voce+Strozzata"
+  },
+  {
+    "artist": "Ennio Morricone",
+    "track": "Macchie solari (The Victim)",
+    "album": "Scream Morricone",
+    "timestamp": "2025-10-16T18:50:50Z",
+    "url": "https://www.last.fm/music/Ennio+Morricone/_/Macchie+solari+(The+Victim)"
+  },
+  {
+    "artist": "Ennio Morricone",
+    "track": "Ansimando",
+    "album": "Scream Morricone",
+    "timestamp": "2025-10-16T18:48:51Z",
+    "url": "https://www.last.fm/music/Ennio+Morricone/_/Ansimando"
+  },
+  {
     "artist": "Mork",
     "track": "Evig Intens Smerte",
     "album": "Katedralen",
@@ -47,96 +138,5 @@
     "album": "Melodies of Atonement",
     "timestamp": "2025-10-04T05:11:22Z",
     "url": "https://www.last.fm/music/Leprous/_/Self%E2%80%90Satisfied+Lullaby"
-  },
-  {
-    "artist": "Leprous",
-    "track": "Starlight",
-    "album": "Melodies of Atonement",
-    "timestamp": "2025-10-04T05:04:57Z",
-    "url": "https://www.last.fm/music/Leprous/_/Starlight"
-  },
-  {
-    "artist": "Leprous",
-    "track": "Faceless",
-    "album": "Melodies of Atonement",
-    "timestamp": "2025-10-04T04:58:47Z",
-    "url": "https://www.last.fm/music/Leprous/_/Faceless"
-  },
-  {
-    "artist": "Leprous",
-    "track": "Limbo",
-    "album": "Melodies of Atonement",
-    "timestamp": "2025-10-04T04:52:34Z",
-    "url": "https://www.last.fm/music/Leprous/_/Limbo"
-  },
-  {
-    "artist": "Leprous",
-    "track": "Like a Sunken Ship",
-    "album": "Melodies of Atonement",
-    "timestamp": "2025-10-04T04:47:27Z",
-    "url": "https://www.last.fm/music/Leprous/_/Like+a+Sunken+Ship"
-  },
-  {
-    "artist": "Dio",
-    "track": "Straight Through the Heart",
-    "album": "Holy Diver",
-    "timestamp": "2025-10-04T02:59:35Z",
-    "url": "https://www.last.fm/music/Dio/_/Straight+Through+the+Heart"
-  },
-  {
-    "artist": "Halford",
-    "track": "Made In Hell",
-    "album": "Resurrection",
-    "timestamp": "2025-10-04T02:56:38Z",
-    "url": "https://www.last.fm/music/Halford/_/Made+In+Hell"
-  },
-  {
-    "artist": "Dio",
-    "track": "Straight Through the Heart",
-    "album": "Holy Diver",
-    "timestamp": "2025-10-04T02:39:02Z",
-    "url": "https://www.last.fm/music/Dio/_/Straight+Through+the+Heart"
-  },
-  {
-    "artist": "Dio",
-    "track": "Don’t Talk to Strangers",
-    "album": "Holy Diver",
-    "timestamp": "2025-10-04T02:34:12Z",
-    "url": "https://www.last.fm/music/Dio/_/Don%E2%80%99t+Talk+to+Strangers"
-  },
-  {
-    "artist": "Ultra Bra",
-    "track": "Hei kuule Suomi",
-    "album": "Kalifornia",
-    "timestamp": "2025-10-02T00:58:19Z",
-    "url": "https://www.last.fm/music/Ultra+Bra/_/Hei+kuule+Suomi"
-  },
-  {
-    "artist": "King Crimson",
-    "track": "The Court Of The Crimson King (including \"The Return Of The Fire Witch\" and \"The Dance Of The Puppets\")",
-    "album": "In the Court of the Crimson King (Expanded Edition)",
-    "timestamp": "2025-10-02T00:51:16Z",
-    "url": "https://www.last.fm/music/King+Crimson/_/The+Court+Of+The+Crimson+King+(including+%22The+Return+Of+The+Fire+Witch%22+and+%22The+Dance+Of+The+Puppets%22)"
-  },
-  {
-    "artist": "Darkthrone",
-    "track": "Black Dawn Affiliation",
-    "album": "It Beckons Us All.......",
-    "timestamp": "2025-09-30T01:48:58Z",
-    "url": "https://www.last.fm/music/Darkthrone/_/Black+Dawn+Affiliation"
-  },
-  {
-    "artist": "Darkthrone",
-    "track": "Eon 3",
-    "album": "It Beckons Us All.......",
-    "timestamp": "2025-09-30T01:43:15Z",
-    "url": "https://www.last.fm/music/Darkthrone/_/Eon+3"
-  },
-  {
-    "artist": "Darkthrone",
-    "track": "Howling Primitive Colonies",
-    "album": "It Beckons Us All.......",
-    "timestamp": "2025-09-30T01:36:44Z",
-    "url": "https://www.last.fm/music/Darkthrone/_/Howling+Primitive+Colonies"
   }
 ]
