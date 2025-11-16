@@ -1,6 +1,90 @@
 [
   {
     "artist": "Altin Gün",
+    "track": "Sevda Olmasaydı",
+    "album": "Yol",
+    "timestamp": "2025-11-15T22:33:01Z",
+    "url": "https://www.last.fm/music/Altin+G%C3%BCn/_/Sevda+Olmasayd%C4%B1"
+  },
+  {
+    "artist": "Derya Yildirim \u0026 Grup Simsek",
+    "track": "Sunrise",
+    "album": "Dost 1 - EP",
+    "timestamp": "2025-11-15T22:04:18Z",
+    "url": "https://www.last.fm/music/Derya+Yildirim+\u0026+Grup+Simsek/_/Sunrise"
+  },
+  {
+    "artist": "Derya Yildirim \u0026 Grup Simsek",
+    "track": "Hop Çerkez",
+    "album": "Dost 1 - EP",
+    "timestamp": "2025-11-15T21:59:24Z",
+    "url": "https://www.last.fm/music/Derya+Yildirim+\u0026+Grup+Simsek/_/Hop+%C3%87erkez"
+  },
+  {
+    "artist": "Derya Yildirim \u0026 Grup Simsek",
+    "track": "Hastane Önü",
+    "album": "Dost 1 - EP",
+    "timestamp": "2025-11-15T21:52:08Z",
+    "url": "https://www.last.fm/music/Derya+Yildirim+\u0026+Grup+Simsek/_/Hastane+%C3%96n%C3%BC"
+  },
+  {
+    "artist": "Derya Yildirim \u0026 Grup Simsek",
+    "track": "Deniz Dalgasız olmaz (Dost Version)",
+    "album": "Dost 1 - EP",
+    "timestamp": "2025-11-15T21:48:31Z",
+    "url": "https://www.last.fm/music/Derya+Yildirim+\u0026+Grup+Simsek/_/Deniz+Dalgas%C4%B1z+olmaz+(Dost+Version)"
+  },
+  {
+    "artist": "Derya Yildirim \u0026 Grup Simsek",
+    "track": "Haydar Haydar",
+    "album": "Dost 1 - EP",
+    "timestamp": "2025-11-15T21:44:06Z",
+    "url": "https://www.last.fm/music/Derya+Yildirim+\u0026+Grup+Simsek/_/Haydar+Haydar"
+  },
+  {
+    "artist": "Derya Yildirim \u0026 Grup Simsek",
+    "track": "The Trip",
+    "album": "Dost 1 - EP",
+    "timestamp": "2025-11-15T21:39:45Z",
+    "url": "https://www.last.fm/music/Derya+Yildirim+\u0026+Grup+Simsek/_/The+Trip"
+  },
+  {
+    "artist": "Derya Yildirim \u0026 Grup Simsek",
+    "track": "3,2,2,3",
+    "album": "Nem Kaldi - EP",
+    "timestamp": "2025-11-15T21:29:24Z",
+    "url": "https://www.last.fm/music/Derya+Yildirim+\u0026+Grup+Simsek/_/3,2,2,3"
+  },
+  {
+    "artist": "Derya Yildirim \u0026 Grup Simsek",
+    "track": "Nem Kaldi",
+    "album": "Nem Kaldi - EP",
+    "timestamp": "2025-11-15T21:23:49Z",
+    "url": "https://www.last.fm/music/Derya+Yildirim+\u0026+Grup+Simsek/_/Nem+Kaldi"
+  },
+  {
+    "artist": "Ennio Morricone",
+    "track": "Vite Cancellate",
+    "album": "Il giustiziere (Colonna sonora originale) [Edizione speciale]",
+    "timestamp": "2025-11-15T21:16:15Z",
+    "url": "https://www.last.fm/music/Ennio+Morricone/_/Vite+Cancellate"
+  },
+  {
+    "artist": "Ennio Morricone",
+    "track": "Terroristi!",
+    "album": "Il giustiziere (Colonna sonora originale) [Edizione speciale]",
+    "timestamp": "2025-11-15T21:04:43Z",
+    "url": "https://www.last.fm/music/Ennio+Morricone/_/Terroristi!"
+  },
+  {
+    "artist": "Ennio Morricone",
+    "track": "Il Giustiziere",
+    "album": "Il giustiziere (Colonna sonora originale) [Edizione speciale]",
+    "timestamp": "2025-11-15T20:59:53Z",
+    "url": "https://www.last.fm/music/Ennio+Morricone/_/Il+Giustiziere"
+  },
+  {
+    "artist": "Altin Gün",
     "track": "Doktor Civanım",
     "album": "Aşk",
     "timestamp": "2025-11-15T10:09:11Z",
@@ -54,89 +138,5 @@
     "album": "Aşk",
     "timestamp": "2025-11-15T09:42:05Z",
     "url": "https://www.last.fm/music/Altin+G%C3%BCn/_/Dere+Geliyor"
-  },
-  {
-    "artist": "Altin Gün",
-    "track": "Leylim Ley",
-    "album": "Aşk",
-    "timestamp": "2025-11-15T09:37:50Z",
-    "url": "https://www.last.fm/music/Altin+G%C3%BCn/_/Leylim+Ley"
-  },
-  {
-    "artist": "Altin Gün",
-    "track": "Su Sızıyor",
-    "album": "Aşk",
-    "timestamp": "2025-11-15T09:33:46Z",
-    "url": "https://www.last.fm/music/Altin+G%C3%BCn/_/Su+S%C4%B1z%C4%B1yor"
-  },
-  {
-    "artist": "Altin Gün",
-    "track": "Badi Sabah Olmadan",
-    "album": "Aşk",
-    "timestamp": "2025-11-15T09:29:00Z",
-    "url": "https://www.last.fm/music/Altin+G%C3%BCn/_/Badi+Sabah+Olmadan"
-  },
-  {
-    "artist": "Joe Magnarelli",
-    "track": "Decidedly So",
-    "album": "Decidedly So",
-    "timestamp": "2025-11-15T01:36:18Z",
-    "url": "https://www.last.fm/music/Joe+Magnarelli/_/Decidedly+So"
-  },
-  {
-    "artist": "Eric Alexander",
-    "track": "Like Sugar",
-    "album": "Like Sugar",
-    "timestamp": "2025-11-15T01:30:57Z",
-    "url": "https://www.last.fm/music/Eric+Alexander/_/Like+Sugar"
-  },
-  {
-    "artist": "JD Allen",
-    "track": "Don't Go to Strangers",
-    "album": "Love Letters (The Ballad Sessions)",
-    "timestamp": "2025-11-15T01:24:43Z",
-    "url": "https://www.last.fm/music/JD+Allen/_/Don%27t+Go+to+Strangers"
-  },
-  {
-    "artist": "Brandon Sanders \u0026 Jazzmeia Horn",
-    "track": "Our Love Is Here to Stay",
-    "album": "Lasting Impression",
-    "timestamp": "2025-11-15T01:18:27Z",
-    "url": "https://www.last.fm/music/Brandon+Sanders+\u0026+Jazzmeia+Horn/_/Our+Love+Is+Here+to+Stay"
-  },
-  {
-    "artist": "Kerry Politzer",
-    "track": "Alternate Route (feat. Kurt Rosenwinkel, Alexander Claffy, George Colligan \u0026 Jaleel Shaw)",
-    "album": "Alternate Route (feat. Kurt Rosenwinkel, Alexander Claffy, George Colligan \u0026 Jaleel Shaw) - Single",
-    "timestamp": "2025-11-15T01:12:44Z",
-    "url": "https://www.last.fm/music/Kerry+Politzer/_/Alternate+Route+(feat.+Kurt+Rosenwinkel,+Alexander+Claffy,+George+Colligan+\u0026+Jaleel+Shaw)"
-  },
-  {
-    "artist": "Lafayette Harris, Jr.",
-    "track": "For Maxwell (feat. Jeremy Pelt)",
-    "album": "All in Good Time",
-    "timestamp": "2025-11-15T01:09:42Z",
-    "url": "https://www.last.fm/music/Lafayette+Harris,+Jr./_/For+Maxwell+(feat.+Jeremy+Pelt)"
-  },
-  {
-    "artist": "Aaron Parks",
-    "track": "Anywhere Together",
-    "album": "By All Means",
-    "timestamp": "2025-11-15T01:04:15Z",
-    "url": "https://www.last.fm/music/Aaron+Parks/_/Anywhere+Together"
-  },
-  {
-    "artist": "Joe Magnarelli",
-    "track": "Decidedly So",
-    "album": "Decidedly So",
-    "timestamp": "2025-11-15T00:58:59Z",
-    "url": "https://www.last.fm/music/Joe+Magnarelli/_/Decidedly+So"
-  },
-  {
-    "artist": "Mdou Moctar",
-    "track": "Imouhar",
-    "album": "",
-    "timestamp": "2025-11-15T00:53:34Z",
-    "url": "https://www.last.fm/music/Mdou+Moctar/_/Imouhar"
   }
 ]
