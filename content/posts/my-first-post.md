@@ -1,6 +1,6 @@
 +++
 date = '2025-07-25T15:18:01-07:00'
-draft = false
+draft = true
 title = "If you can't get out of it, get into it!"
 +++
 
