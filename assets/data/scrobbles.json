@@ -1,5 +1,61 @@
 [
   {
+    "artist": "Ozzy Osbourne",
+    "track": "Crazy Train",
+    "album": "Blizzard Of Ozz (40th Anniversary Expanded Edition)",
+    "timestamp": "2025-12-07T16:04:31Z",
+    "url": "https://www.last.fm/music/Ozzy+Osbourne/_/Crazy+Train"
+  },
+  {
+    "artist": "Sanguisugabogg",
+    "track": "Repulsive Demise",
+    "album": "Hideous Aftermath",
+    "timestamp": "2025-12-07T16:00:26Z",
+    "url": "https://www.last.fm/music/Sanguisugabogg/_/Repulsive+Demise"
+  },
+  {
+    "artist": "Metallica",
+    "track": "Harvester of Sorrow",
+    "album": "...And Justice for All (Deluxe Box Set)",
+    "timestamp": "2025-12-07T15:54:39Z",
+    "url": "https://www.last.fm/music/Metallica/_/Harvester+of+Sorrow"
+  },
+  {
+    "artist": "Dying Wish",
+    "track": "I'll Know You're Not Around",
+    "album": "Flesh Stays Together",
+    "timestamp": "2025-12-07T15:50:53Z",
+    "url": "https://www.last.fm/music/Dying+Wish/_/I%27ll+Know+You%27re+Not+Around"
+  },
+  {
+    "artist": "Opeth",
+    "track": "§1",
+    "album": "The Last Will and Testament",
+    "timestamp": "2025-12-07T15:44:55Z",
+    "url": "https://www.last.fm/music/Opeth/_/%C2%A71"
+  },
+  {
+    "artist": "Sabaton",
+    "track": "The Duelist",
+    "album": "Legends",
+    "timestamp": "2025-12-07T15:40:59Z",
+    "url": "https://www.last.fm/music/Sabaton/_/The+Duelist"
+  },
+  {
+    "artist": "Mercyful Fate",
+    "track": "Come to the Sabbath",
+    "album": "Don't Break the Oath",
+    "timestamp": "2025-12-07T15:35:40Z",
+    "url": "https://www.last.fm/music/Mercyful+Fate/_/Come+to+the+Sabbath"
+  },
+  {
+    "artist": "Mitch Murder",
+    "track": "Altered State",
+    "album": "Hardwired",
+    "timestamp": "2025-12-07T13:45:52Z",
+    "url": "https://www.last.fm/music/Mitch+Murder/_/Altered+State"
+  },
+  {
     "artist": "Midnight Danger",
     "track": "Adrenaline Burst",
     "album": "Malignant Force",
@@ -82,61 +138,5 @@
     "album": "L'incanto Dello Zero",
     "timestamp": "2025-12-07T09:03:03Z",
     "url": "https://www.last.fm/music/Il+Segno+del+Comando/_/Il+mio+nome+%C3%A8+menzogna"
-  },
-  {
-    "artist": "Il Segno del Comando",
-    "track": "Le 4 a",
-    "album": "L'incanto Dello Zero",
-    "timestamp": "2025-12-07T08:56:28Z",
-    "url": "https://www.last.fm/music/Il+Segno+del+Comando/_/Le+4+a"
-  },
-  {
-    "artist": "Il Segno del Comando",
-    "track": "Nel labirinto spirituale",
-    "album": "L'incanto Dello Zero",
-    "timestamp": "2025-12-07T08:50:08Z",
-    "url": "https://www.last.fm/music/Il+Segno+del+Comando/_/Nel+labirinto+spirituale"
-  },
-  {
-    "artist": "Il Segno del Comando",
-    "track": "Lo scontro",
-    "album": "L'incanto Dello Zero",
-    "timestamp": "2025-12-07T08:47:09Z",
-    "url": "https://www.last.fm/music/Il+Segno+del+Comando/_/Lo+scontro"
-  },
-  {
-    "artist": "Il Segno del Comando",
-    "track": "Al cospetto dell'inatteso",
-    "album": "L'incanto Dello Zero",
-    "timestamp": "2025-12-07T08:40:35Z",
-    "url": "https://www.last.fm/music/Il+Segno+del+Comando/_/Al+cospetto+dell%27inatteso"
-  },
-  {
-    "artist": "Il Segno del Comando",
-    "track": "Sulla via della veglia",
-    "album": "L'incanto Dello Zero",
-    "timestamp": "2025-12-07T08:34:22Z",
-    "url": "https://www.last.fm/music/Il+Segno+del+Comando/_/Sulla+via+della+veglia"
-  },
-  {
-    "artist": "Il Segno del Comando",
-    "track": "La grande quercia",
-    "album": "L'incanto Dello Zero",
-    "timestamp": "2025-12-07T08:32:09Z",
-    "url": "https://www.last.fm/music/Il+Segno+del+Comando/_/La+grande+quercia"
-  },
-  {
-    "artist": "Il Segno del Comando",
-    "track": "Il calice dell'oblio",
-    "album": "L'incanto Dello Zero",
-    "timestamp": "2025-12-07T08:25:09Z",
-    "url": "https://www.last.fm/music/Il+Segno+del+Comando/_/Il+calice+dell%27oblio"
-  },
-  {
-    "artist": "Il Segno del Comando",
-    "track": "Il senza ombra",
-    "album": "L'incanto Dello Zero",
-    "timestamp": "2025-12-07T08:23:24Z",
-    "url": "https://www.last.fm/music/Il+Segno+del+Comando/_/Il+senza+ombra"
   }
 ]
