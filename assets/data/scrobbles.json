@@ -1,5 +1,33 @@
 [
   {
+    "artist": "Foo Fighters",
+    "track": "I'll Stick Around",
+    "album": "Foo Fighters",
+    "timestamp": "2026-01-03T03:25:36Z",
+    "url": "https://www.last.fm/music/Foo+Fighters/_/I%27ll+Stick+Around"
+  },
+  {
+    "artist": "Foo Fighters",
+    "track": "This Is a Call",
+    "album": "Foo Fighters",
+    "timestamp": "2026-01-03T03:21:41Z",
+    "url": "https://www.last.fm/music/Foo+Fighters/_/This+Is+a+Call"
+  },
+  {
+    "artist": "Foo Fighters",
+    "track": "Times Like These (US Version - Official HD Video)",
+    "album": "",
+    "timestamp": "2026-01-03T03:17:33Z",
+    "url": "https://www.last.fm/music/Foo+Fighters/_/Times+Like+These+(US+Version+-+Official+HD+Video)"
+  },
+  {
+    "artist": "Foo Fighters",
+    "track": "Learn to Fly",
+    "album": "There Is Nothing Left to Lose",
+    "timestamp": "2026-01-03T02:24:05Z",
+    "url": "https://www.last.fm/music/Foo+Fighters/_/Learn+to+Fly"
+  },
+  {
     "artist": "Type O Negative",
     "track": "Life Is Killing Me",
     "album": "Life Is Killing Me",
@@ -110,33 +138,5 @@
     "album": "Figure In Blue",
     "timestamp": "2025-12-08T19:48:16Z",
     "url": "https://www.last.fm/music/Charles+Lloyd/_/Hymn+To+The+Mother,+for+Zakir"
-  },
-  {
-    "artist": "Béesau",
-    "track": "Une fleur et des papillons",
-    "album": "Une fleur et des papillons",
-    "timestamp": "2025-12-08T19:42:44Z",
-    "url": "https://www.last.fm/music/B%C3%A9esau/_/Une+fleur+et+des+papillons"
-  },
-  {
-    "artist": "Out Of/Into",
-    "track": "Brothers In Arms",
-    "album": "Brothers In Arms (feat. Gerald Clayton, Immanuel Wilkins, Joel Ross, Kendrick Scott \u0026 Matt Brewer) - Single",
-    "timestamp": "2025-12-08T19:34:51Z",
-    "url": "https://www.last.fm/music/Out+Of%2FInto/_/Brothers+In+Arms"
-  },
-  {
-    "artist": "Tigran Hamasyan",
-    "track": "Dardahan",
-    "album": "Manifeste",
-    "timestamp": "2025-12-08T19:30:39Z",
-    "url": "https://www.last.fm/music/Tigran+Hamasyan/_/Dardahan"
-  },
-  {
-    "artist": "Sam Yahel",
-    "track": "When It Comes Around",
-    "album": "Quiet Flow (feat. Brian Blade \u0026 Larry Grenadier)",
-    "timestamp": "2025-12-08T19:25:11Z",
-    "url": "https://www.last.fm/music/Sam+Yahel/_/When+It+Comes+Around"
   }
 ]
