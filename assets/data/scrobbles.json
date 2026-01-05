@@ -1,5 +1,26 @@
 [
   {
+    "artist": "Abruptum",
+    "track": "Fames",
+    "album": "Potestates Apocalypsis",
+    "timestamp": "2026-01-04T22:58:30Z",
+    "url": "https://www.last.fm/music/Abruptum/_/Fames"
+  },
+  {
+    "artist": "Abruptum",
+    "track": "Bellum",
+    "album": "Potestates Apocalypsis",
+    "timestamp": "2026-01-04T21:16:12Z",
+    "url": "https://www.last.fm/music/Abruptum/_/Bellum"
+  },
+  {
+    "artist": "Abruptum",
+    "track": "Pestilencia",
+    "album": "Potestates Apocalypsis",
+    "timestamp": "2026-01-04T21:03:41Z",
+    "url": "https://www.last.fm/music/Abruptum/_/Pestilencia"
+  },
+  {
     "artist": "Samael",
     "track": "Son of Earth",
     "album": "Ceremony of Opposites",
@@ -117,26 +138,5 @@
     "album": "Steve Winwood",
     "timestamp": "2026-01-03T17:00:26Z",
     "url": "https://www.last.fm/music/Steve+Winwood/_/Hold+On"
-  },
-  {
-    "artist": "Blind Faith",
-    "track": "Can’t Find My Way Home",
-    "album": "Blind Faith",
-    "timestamp": "2026-01-03T16:57:10Z",
-    "url": "https://www.last.fm/music/Blind+Faith/_/Can%E2%80%99t+Find+My+Way+Home"
-  },
-  {
-    "artist": "Blind Faith",
-    "track": "Had To Cry Today",
-    "album": "Blind Faith",
-    "timestamp": "2026-01-03T16:50:38Z",
-    "url": "https://www.last.fm/music/Blind+Faith/_/Had+To+Cry+Today"
-  },
-  {
-    "artist": "Abigor",
-    "track": "Scars in the Landscape of God",
-    "album": "Nachthymnen (From the Twilight Kingdom)",
-    "timestamp": "2026-01-03T15:11:16Z",
-    "url": "https://www.last.fm/music/Abigor/_/Scars+in+the+Landscape+of+God"
   }
 ]
