@@ -1,5 +1,33 @@
 [
   {
+    "artist": "Carlton Melton",
+    "track": "Mutiny",
+    "album": "Turn To Earth",
+    "timestamp": "2026-01-27T05:25:24Z",
+    "url": "https://www.last.fm/music/Carlton+Melton/_/Mutiny"
+  },
+  {
+    "artist": "Carlton Melton",
+    "track": "Cosmicity",
+    "album": "Turn To Earth",
+    "timestamp": "2026-01-27T05:13:01Z",
+    "url": "https://www.last.fm/music/Carlton+Melton/_/Cosmicity"
+  },
+  {
+    "artist": "Carlton Melton",
+    "track": "Sundering",
+    "album": "Turn To Earth",
+    "timestamp": "2026-01-27T05:06:26Z",
+    "url": "https://www.last.fm/music/Carlton+Melton/_/Sundering"
+  },
+  {
+    "artist": "Carlton Melton",
+    "track": "Vanquished",
+    "album": "Turn To Earth",
+    "timestamp": "2026-01-27T05:00:26Z",
+    "url": "https://www.last.fm/music/Carlton+Melton/_/Vanquished"
+  },
+  {
     "artist": "Sölicitör",
     "track": "Black Magick \u0026 the Devil's Hand Pt II",
     "album": "Enemy in Mirrors",
@@ -110,33 +138,5 @@
     "album": "The Ultimate Incantation",
     "timestamp": "2026-01-20T02:23:16Z",
     "url": "https://www.last.fm/music/Vader/_/Creation+(Intro)"
-  },
-  {
-    "artist": "Sölicitör",
-    "track": "Black Magick \u0026 the Devil's Hand Pt II",
-    "album": "Enemy in Mirrors",
-    "timestamp": "2026-01-20T02:05:52Z",
-    "url": "https://www.last.fm/music/S%C3%B6licit%C3%B6r/_/Black+Magick+\u0026+the+Devil%27s+Hand+Pt+II"
-  },
-  {
-    "artist": "Sölicitör",
-    "track": "Black Magick \u0026 the Devil's Hand Pt II",
-    "album": "Enemy in Mirrors",
-    "timestamp": "2026-01-20T02:03:19Z",
-    "url": "https://www.last.fm/music/S%C3%B6licit%C3%B6r/_/Black+Magick+\u0026+the+Devil%27s+Hand+Pt+II"
-  },
-  {
-    "artist": "Cult of Luna",
-    "track": "The Silent Man",
-    "album": "A Dawn to Fear",
-    "timestamp": "2026-01-20T01:59:32Z",
-    "url": "https://www.last.fm/music/Cult+of+Luna/_/The+Silent+Man"
-  },
-  {
-    "artist": "The Clash",
-    "track": "Junco Partner",
-    "album": "Sandinista!",
-    "timestamp": "2026-01-19T23:16:21Z",
-    "url": "https://www.last.fm/music/The+Clash/_/Junco+Partner"
   }
 ]
