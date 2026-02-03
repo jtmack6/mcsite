@@ -1,15 +1,15 @@
 pre.asciiart {
     font-family: 'Fira Mono', 'Consolas', 'Menlo', monospace;
-    font-size: 1.1em;
+    font-size: 0.35em !important;
     line-height: 0.8;
     background: none;
     border: none;
     padding: 0;
-    margin: 0 auto;
+    margin: 0;
     display: block;
-    text-align: center;
+    text-align: left;
   }
-  
+
   pre.asciiart span {
     display: inline-block;
     line-height: 1;
@@ -23,14 +23,13 @@ pre.asciiart {
     border-radius: 8px;
     background: #222;
     padding: 16px;
-    margin: 2rem auto;         /* Top/bottom space, auto left/right for centering */
+    margin: 0.1rem 0 2rem 0;
     box-shadow: 0 2px 8px rgba(0,0,0,0.2);
   }
-  
-  /* Center the frame's container */
+
   .asciiart-frame {
     display: block;
     width: fit-content;
-    margin-left: auto;
+    margin-left: 0;
     margin-right: auto;
   }

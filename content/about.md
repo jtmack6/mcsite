@@ -1,10 +1,11 @@
 ---
 title: "About"
-date: 2024-06-09
+date: 2025-02-03
 ---
 
-Welcome to my About page!
+Jim here. I have been doing this computer thing for way too long. I also attempt to play music,
+which was more prevalent about 15 years ago when I used to actually play in bands. Now I spend
+a lot of time tinkering with synthesizer and modular noise making machinery.
 
-This site is built with Hugo and the Terminal theme. Here you can add information about yourself, your work, or the purpose of this website.
-
-Feel free to edit this page in `content/about.md` to personalize it further. 
+I am also a huge fan of FreeBSD, which I run almost all of personal server type stuff on, but also do a
+lot of work on Linux ( usually Arch ) and CM's which I have running k8s at home.
