@@ -1,5 +1,33 @@
 [
   {
+    "artist": "John McLaughlin with Elvin Jones and Joey Defrancesco",
+    "track": "Sing me softly of the blues",
+    "album": "After The Rain",
+    "timestamp": "2026-02-11T07:26:08Z",
+    "url": "https://www.last.fm/music/John+McLaughlin+with+Elvin+Jones+and+Joey+Defrancesco/_/Sing+me+softly+of+the+blues"
+  },
+  {
+    "artist": "John McLaughlin with Elvin Jones and Joey Defrancesco",
+    "track": "My Favorite Things",
+    "album": "After The Rain",
+    "timestamp": "2026-02-11T07:19:51Z",
+    "url": "https://www.last.fm/music/John+McLaughlin+with+Elvin+Jones+and+Joey+Defrancesco/_/My+Favorite+Things"
+  },
+  {
+    "artist": "John McLaughlin with Elvin Jones and Joey Defrancesco",
+    "track": "Take the Coltrane",
+    "album": "After The Rain",
+    "timestamp": "2026-02-11T07:13:34Z",
+    "url": "https://www.last.fm/music/John+McLaughlin+with+Elvin+Jones+and+Joey+Defrancesco/_/Take+the+Coltrane"
+  },
+  {
+    "artist": "Al Di Meola",
+    "track": "Capriccio Suite",
+    "album": "Twentyfour",
+    "timestamp": "2026-02-11T07:07:51Z",
+    "url": "https://www.last.fm/music/Al+Di+Meola/_/Capriccio+Suite"
+  },
+  {
     "artist": "Al Di Meola",
     "track": "Esmeralda",
     "album": "Twentyfour",
@@ -110,33 +138,5 @@
     "album": "Afrique Victime",
     "timestamp": "2026-02-11T04:38:32Z",
     "url": "https://www.last.fm/music/Mdou+Moctar/_/%5Buntitled%5D"
-  },
-  {
-    "artist": "Mdou Moctar",
-    "track": "Tala Tannam",
-    "album": "Afrique Victime",
-    "timestamp": "2026-02-11T04:35:11Z",
-    "url": "https://www.last.fm/music/Mdou+Moctar/_/Tala+Tannam"
-  },
-  {
-    "artist": "Mdou Moctar",
-    "track": "Ya Habibti",
-    "album": "Afrique Victime",
-    "timestamp": "2026-02-11T04:30:23Z",
-    "url": "https://www.last.fm/music/Mdou+Moctar/_/Ya+Habibti"
-  },
-  {
-    "artist": "Mdou Moctar",
-    "track": "Taliat",
-    "album": "Afrique Victime",
-    "timestamp": "2026-02-11T04:26:50Z",
-    "url": "https://www.last.fm/music/Mdou+Moctar/_/Taliat"
-  },
-  {
-    "artist": "The Killers",
-    "track": "West Hills",
-    "album": "Pressure Machine",
-    "timestamp": "2026-02-11T00:25:17Z",
-    "url": "https://www.last.fm/music/The+Killers/_/West+Hills"
   }
 ]
