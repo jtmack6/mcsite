@@ -2,6 +2,7 @@
 date = '2024-07-27T20:30:00-07:00'
 draft = false
 title = 'Scrobbles Evangelism'
+categories = ['Music']
 +++
 
 ## The Evolution of Music Annoyance

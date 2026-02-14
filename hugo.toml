@@ -16,7 +16,7 @@ pagination.pagerSize = 5
   contentTypeName = "posts"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 2
+  showMenuItems = 3
 
   # show selector to switch language
   showLanguageSelector = false
@@ -67,6 +67,10 @@ pagination.pagerSize = 5
 
   themeColor = "terminal"
 
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
 [params.twitter]
   # set Twitter handles for Twitter cards
   # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
@@ -104,13 +108,13 @@ pagination.pagerSize = 5
           name = "About"
           url = "/about"
         [[languages.en.menu.main]]
-          identifier = "stuff"
-          name = "Stuff"
-          url = "/stuff"
-        [[languages.en.menu.main]]
           identifier = "scrobbles"
           name = "Scrobbles"
           url = "/scrobbles"
+        [[languages.en.menu.main]]
+          identifier = "categories"
+          name = "Categories"
+          url = "/categories"
 
 [module]
 # In case you would like to make changes to the theme and keep it locally in you repository,
