@@ -1,6 +1,76 @@
 [
   {
     "artist": "Herbie Hancock",
+    "track": "Spider",
+    "album": "Secrets",
+    "timestamp": "2026-02-15T18:26:50Z",
+    "url": "https://www.last.fm/music/Herbie+Hancock/_/Spider"
+  },
+  {
+    "artist": "Herbie Hancock",
+    "track": "Cantelope Island",
+    "album": "Secrets",
+    "timestamp": "2026-02-15T18:19:27Z",
+    "url": "https://www.last.fm/music/Herbie+Hancock/_/Cantelope+Island"
+  },
+  {
+    "artist": "Herbie Hancock",
+    "track": "People Music",
+    "album": "Secrets",
+    "timestamp": "2026-02-15T18:12:17Z",
+    "url": "https://www.last.fm/music/Herbie+Hancock/_/People+Music"
+  },
+  {
+    "artist": "Herbie Hancock",
+    "track": "Doin’ it",
+    "album": "Secrets",
+    "timestamp": "2026-02-15T18:04:46Z",
+    "url": "https://www.last.fm/music/Herbie+Hancock/_/Doin%E2%80%99+it"
+  },
+  {
+    "artist": "Sigur Rós",
+    "track": "Skel",
+    "album": "ÁTTA",
+    "timestamp": "2026-02-15T17:18:56Z",
+    "url": "https://www.last.fm/music/Sigur+R%C3%B3s/_/Skel"
+  },
+  {
+    "artist": "Eluveitie",
+    "track": "The Prodigal Ones",
+    "album": "Ànv",
+    "timestamp": "2026-02-15T17:14:56Z",
+    "url": "https://www.last.fm/music/Eluveitie/_/The+Prodigal+Ones"
+  },
+  {
+    "artist": "Djevel",
+    "track": "Englene som falt ned i min seng, skal jeg sette fri med brukne vinger og torneglorier",
+    "album": "Tanker Som Rir Natten",
+    "timestamp": "2026-02-15T17:07:24Z",
+    "url": "https://www.last.fm/music/Djevel/_/Englene+som+falt+ned+i+min+seng,+skal+jeg+sette+fri+med+brukne+vinger+og+torneglorier"
+  },
+  {
+    "artist": "Herbie Hancock",
+    "track": "Chameleon",
+    "album": "Head Hunters",
+    "timestamp": "2026-02-15T13:52:24Z",
+    "url": "https://www.last.fm/music/Herbie+Hancock/_/Chameleon"
+  },
+  {
+    "artist": "Herbie Hancock",
+    "track": "Hornets",
+    "album": "Sextant",
+    "timestamp": "2026-02-15T13:46:55Z",
+    "url": "https://www.last.fm/music/Herbie+Hancock/_/Hornets"
+  },
+  {
+    "artist": "Herbie Hancock",
+    "track": "Hidden Shadows",
+    "album": "Sextant",
+    "timestamp": "2026-02-15T13:36:44Z",
+    "url": "https://www.last.fm/music/Herbie+Hancock/_/Hidden+Shadows"
+  },
+  {
+    "artist": "Herbie Hancock",
     "track": "Rain Dance",
     "album": "Sextant",
     "timestamp": "2026-02-15T12:18:38Z",
@@ -68,75 +138,5 @@
     "album": "Swing Time",
     "timestamp": "2026-02-15T08:37:49Z",
     "url": "https://www.last.fm/music/Wayne+Hancock/_/Flatland+Boogie"
-  },
-  {
-    "artist": "Wayne Hancock",
-    "track": "Walkin’ the Dog",
-    "album": "Swing Time",
-    "timestamp": "2026-02-15T08:32:15Z",
-    "url": "https://www.last.fm/music/Wayne+Hancock/_/Walkin%E2%80%99+the+Dog"
-  },
-  {
-    "artist": "Wayne Hancock",
-    "track": "Hoy Hoy Hoy",
-    "album": "Swing Time",
-    "timestamp": "2026-02-15T08:28:48Z",
-    "url": "https://www.last.fm/music/Wayne+Hancock/_/Hoy+Hoy+Hoy"
-  },
-  {
-    "artist": "Wayne Hancock",
-    "track": "We Three",
-    "album": "Swing Time",
-    "timestamp": "2026-02-15T08:24:35Z",
-    "url": "https://www.last.fm/music/Wayne+Hancock/_/We+Three"
-  },
-  {
-    "artist": "Wayne Hancock",
-    "track": "Highway 54",
-    "album": "Swing Time",
-    "timestamp": "2026-02-15T08:20:42Z",
-    "url": "https://www.last.fm/music/Wayne+Hancock/_/Highway+54"
-  },
-  {
-    "artist": "Wayne Hancock",
-    "track": "Route 66",
-    "album": "Swing Time",
-    "timestamp": "2026-02-15T08:17:22Z",
-    "url": "https://www.last.fm/music/Wayne+Hancock/_/Route+66"
-  },
-  {
-    "artist": "Wayne Hancock",
-    "track": "Tag Along",
-    "album": "Swing Time",
-    "timestamp": "2026-02-15T08:14:38Z",
-    "url": "https://www.last.fm/music/Wayne+Hancock/_/Tag+Along"
-  },
-  {
-    "artist": "Wayne Hancock",
-    "track": "Johnny Law",
-    "album": "Swing Time",
-    "timestamp": "2026-02-15T08:11:41Z",
-    "url": "https://www.last.fm/music/Wayne+Hancock/_/Johnny+Law"
-  },
-  {
-    "artist": "Wayne Hancock",
-    "track": "Thunderstorms \u0026 Neon Signs",
-    "album": "Swing Time",
-    "timestamp": "2026-02-15T08:07:13Z",
-    "url": "https://www.last.fm/music/Wayne+Hancock/_/Thunderstorms+\u0026+Neon+Signs"
-  },
-  {
-    "artist": "Wayne Hancock",
-    "track": "Juke Joint Jumpin’",
-    "album": "Swing Time",
-    "timestamp": "2026-02-15T08:02:51Z",
-    "url": "https://www.last.fm/music/Wayne+Hancock/_/Juke+Joint+Jumpin%E2%80%99"
-  },
-  {
-    "artist": "Wayne Hancock",
-    "track": "Big City Good Time Gal",
-    "album": "Swing Time",
-    "timestamp": "2026-02-15T07:58:44Z",
-    "url": "https://www.last.fm/music/Wayne+Hancock/_/Big+City+Good+Time+Gal"
   }
 ]
