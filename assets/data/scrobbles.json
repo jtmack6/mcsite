@@ -1,5 +1,26 @@
 [
   {
+    "artist": "John Lee Hooker",
+    "track": "You’re Mellow",
+    "album": "In Person",
+    "timestamp": "2026-02-16T21:18:03Z",
+    "url": "https://www.last.fm/music/John+Lee+Hooker/_/You%E2%80%99re+Mellow"
+  },
+  {
+    "artist": "Albert King",
+    "track": "I've Made Nights by Myself",
+    "album": "The Big Blues",
+    "timestamp": "2026-02-16T21:14:51Z",
+    "url": "https://www.last.fm/music/Albert+King/_/I%27ve+Made+Nights+by+Myself"
+  },
+  {
+    "artist": "Muddy Waters",
+    "track": "Electric Man",
+    "album": "\"Unk\" in Funk",
+    "timestamp": "2026-02-16T20:25:25Z",
+    "url": "https://www.last.fm/music/Muddy+Waters/_/Electric+Man"
+  },
+  {
     "artist": "B.B. King",
     "track": "Heartbreaker",
     "album": "Blues On Top Of Blues",
@@ -117,26 +138,5 @@
     "album": "Killing Joke",
     "timestamp": "2026-02-15T23:51:40Z",
     "url": "https://www.last.fm/music/Killing+Joke/_/Total+Invasion"
-  },
-  {
-    "artist": "Killing Joke",
-    "track": "The Death \u0026 Resurrection Show",
-    "album": "Killing Joke",
-    "timestamp": "2026-02-15T23:45:22Z",
-    "url": "https://www.last.fm/music/Killing+Joke/_/The+Death+\u0026+Resurrection+Show"
-  },
-  {
-    "artist": "Killing Joke",
-    "track": "You'll Never Get To Me (2017 Remastered)",
-    "album": "Killing Joke (2017 Remastered Version)",
-    "timestamp": "2026-02-15T20:52:26Z",
-    "url": "https://www.last.fm/music/Killing+Joke/_/You%27ll+Never+Get+To+Me+(2017+Remastered)"
-  },
-  {
-    "artist": "Killing Joke",
-    "track": "Loose Cannon (2017 Remastered)",
-    "album": "Killing Joke (2017 Remastered Version)",
-    "timestamp": "2026-02-15T20:48:14Z",
-    "url": "https://www.last.fm/music/Killing+Joke/_/Loose+Cannon+(2017+Remastered)"
   }
 ]
