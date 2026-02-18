@@ -1,5 +1,75 @@
 [
   {
+    "artist": "Havukruunu",
+    "track": "Aavevalo",
+    "album": "Havulinnaan",
+    "timestamp": "2026-02-17T22:36:24Z",
+    "url": "https://www.last.fm/music/Havukruunu/_/Aavevalo"
+  },
+  {
+    "artist": "Havukruunu",
+    "track": "Rautalintu",
+    "album": "Havulinnaan",
+    "timestamp": "2026-02-17T22:30:30Z",
+    "url": "https://www.last.fm/music/Havukruunu/_/Rautalintu"
+  },
+  {
+    "artist": "Havukruunu",
+    "track": "Kuvastaja",
+    "album": "Havulinnaan",
+    "timestamp": "2026-02-17T22:24:35Z",
+    "url": "https://www.last.fm/music/Havukruunu/_/Kuvastaja"
+  },
+  {
+    "artist": "Havukruunu",
+    "track": "Talven Mustat Tuulet",
+    "album": "Havulinnaan",
+    "timestamp": "2026-02-17T22:19:27Z",
+    "url": "https://www.last.fm/music/Havukruunu/_/Talven+Mustat+Tuulet"
+  },
+  {
+    "artist": "Watain",
+    "track": "The Howling",
+    "album": "The Agony \u0026 Ecstasy of Watain",
+    "timestamp": "2026-02-17T22:13:40Z",
+    "url": "https://www.last.fm/music/Watain/_/The+Howling"
+  },
+  {
+    "artist": "Immolation",
+    "track": "Challenge the Storm",
+    "album": "Harnessing Ruin",
+    "timestamp": "2026-02-17T22:09:45Z",
+    "url": "https://www.last.fm/music/Immolation/_/Challenge+the+Storm"
+  },
+  {
+    "artist": "Death",
+    "track": "See Through Dreams (Take 2 W/ Paul and Sean) [Rehearsal January, 1991]",
+    "album": "Human",
+    "timestamp": "2026-02-17T22:05:26Z",
+    "url": "https://www.last.fm/music/Death/_/See+Through+Dreams+(Take+2+W%2F+Paul+and+Sean)+%5BRehearsal+January,+1991%5D"
+  },
+  {
+    "artist": "Entombed",
+    "track": "Thy Kingdom Coma",
+    "album": "Serpent Saints: The Ten Amendments",
+    "timestamp": "2026-02-17T22:01:07Z",
+    "url": "https://www.last.fm/music/Entombed/_/Thy+Kingdom+Coma"
+  },
+  {
+    "artist": "Whoredom Rife",
+    "track": "Gitt Til Odin",
+    "album": "Whoredom Rife",
+    "timestamp": "2026-02-17T21:56:21Z",
+    "url": "https://www.last.fm/music/Whoredom+Rife/_/Gitt+Til+Odin"
+  },
+  {
+    "artist": "Belphegor",
+    "track": "Conjuring the Dead",
+    "album": "Conjuring The Dead",
+    "timestamp": "2026-02-17T21:32:06Z",
+    "url": "https://www.last.fm/music/Belphegor/_/Conjuring+the+Dead"
+  },
+  {
     "artist": "John Lee Hooker",
     "track": "You’re Mellow",
     "album": "In Person",
@@ -68,75 +138,5 @@
     "album": "Lucille",
     "timestamp": "2026-02-16T04:53:13Z",
     "url": "https://www.last.fm/music/B.B.+King/_/You+Move+Me+So"
-  },
-  {
-    "artist": "B.B. King",
-    "track": "Lucille",
-    "album": "Lucille",
-    "timestamp": "2026-02-16T04:46:03Z",
-    "url": "https://www.last.fm/music/B.B.+King/_/Lucille"
-  },
-  {
-    "artist": "Little Walter",
-    "track": "You're so Fine",
-    "album": "Boss Blues Harmonica",
-    "timestamp": "2026-02-16T01:55:09Z",
-    "url": "https://www.last.fm/music/Little+Walter/_/You%27re+so+Fine"
-  },
-  {
-    "artist": "Howlin’ Wolf",
-    "track": "My Country Sugar Moma",
-    "album": "I Am the Wolf",
-    "timestamp": "2026-02-16T01:52:29Z",
-    "url": "https://www.last.fm/music/Howlin%E2%80%99+Wolf/_/My+Country+Sugar+Moma"
-  },
-  {
-    "artist": "Junior Wells",
-    "track": "Key to the Highway",
-    "album": "On Tap",
-    "timestamp": "2026-02-16T01:49:11Z",
-    "url": "https://www.last.fm/music/Junior+Wells/_/Key+to+the+Highway"
-  },
-  {
-    "artist": "John Lee Hooker",
-    "track": "Crawling King Snake (Live)",
-    "album": "Hard Times",
-    "timestamp": "2026-02-16T01:44:40Z",
-    "url": "https://www.last.fm/music/John+Lee+Hooker/_/Crawling+King+Snake+(Live)"
-  },
-  {
-    "artist": "Muddy Waters feat. Otis Spann, Mike Bloomfield, Paul Butterfield, Donald “Duck” Dunn \u0026 Sam Lay",
-    "track": "Blow Wind Blow",
-    "album": "Fathers And Sons",
-    "timestamp": "2026-02-16T01:40:52Z",
-    "url": "https://www.last.fm/music/Muddy+Waters+feat.+Otis+Spann,+Mike+Bloomfield,+Paul+Butterfield,+Donald+%E2%80%9CDuck%E2%80%9D+Dunn+\u0026+Sam+Lay/_/Blow+Wind+Blow"
-  },
-  {
-    "artist": "Killing Joke",
-    "track": "Blood on Your Hands",
-    "album": "Killing Joke",
-    "timestamp": "2026-02-16T00:06:08Z",
-    "url": "https://www.last.fm/music/Killing+Joke/_/Blood+on+Your+Hands"
-  },
-  {
-    "artist": "Killing Joke",
-    "track": "Implant",
-    "album": "Killing Joke",
-    "timestamp": "2026-02-16T00:00:35Z",
-    "url": "https://www.last.fm/music/Killing+Joke/_/Implant"
-  },
-  {
-    "artist": "Killing Joke",
-    "track": "Asteroid",
-    "album": "Killing Joke",
-    "timestamp": "2026-02-15T23:56:06Z",
-    "url": "https://www.last.fm/music/Killing+Joke/_/Asteroid"
-  },
-  {
-    "artist": "Killing Joke",
-    "track": "Total Invasion",
-    "album": "Killing Joke",
-    "timestamp": "2026-02-15T23:51:40Z",
-    "url": "https://www.last.fm/music/Killing+Joke/_/Total+Invasion"
   }
 ]
