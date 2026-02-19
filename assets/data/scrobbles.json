@@ -1,5 +1,33 @@
 [
   {
+    "artist": "Albert King",
+    "track": "Born Under a Bad Sign",
+    "album": "Smokin’ the Blues",
+    "timestamp": "2026-02-18T20:23:18Z",
+    "url": "https://www.last.fm/music/Albert+King/_/Born+Under+a+Bad+Sign"
+  },
+  {
+    "artist": "B.B. King",
+    "track": "Bad Case of Love",
+    "album": "Blues On The Bayou",
+    "timestamp": "2026-02-18T20:17:06Z",
+    "url": "https://www.last.fm/music/B.B.+King/_/Bad+Case+of+Love"
+  },
+  {
+    "artist": "B.B. King",
+    "track": "Blues Boys Tune",
+    "album": "Blues On The Bayou",
+    "timestamp": "2026-02-18T20:12:36Z",
+    "url": "https://www.last.fm/music/B.B.+King/_/Blues+Boys+Tune"
+  },
+  {
+    "artist": "Havukruunu",
+    "track": "Aavevalo",
+    "album": "Havulinnaan",
+    "timestamp": "2026-02-18T20:10:07Z",
+    "url": "https://www.last.fm/music/Havukruunu/_/Aavevalo"
+  },
+  {
     "artist": "Havukruunu",
     "track": "Aavevalo",
     "album": "Havulinnaan",
@@ -110,33 +138,5 @@
     "album": "Lucille",
     "timestamp": "2026-02-16T05:06:21Z",
     "url": "https://www.last.fm/music/B.B.+King/_/Rainin%27+All+The+Time"
-  },
-  {
-    "artist": "B.B. King",
-    "track": "I Need Your Love",
-    "album": "Lucille",
-    "timestamp": "2026-02-16T05:03:44Z",
-    "url": "https://www.last.fm/music/B.B.+King/_/I+Need+Your+Love"
-  },
-  {
-    "artist": "B.B. King",
-    "track": "No Money, No Luck Blues",
-    "album": "Lucille",
-    "timestamp": "2026-02-16T05:00:44Z",
-    "url": "https://www.last.fm/music/B.B.+King/_/No+Money,+No+Luck+Blues"
-  },
-  {
-    "artist": "B.B. King",
-    "track": "Country Girl",
-    "album": "Lucille",
-    "timestamp": "2026-02-16T04:56:34Z",
-    "url": "https://www.last.fm/music/B.B.+King/_/Country+Girl"
-  },
-  {
-    "artist": "B.B. King",
-    "track": "You Move Me So",
-    "album": "Lucille",
-    "timestamp": "2026-02-16T04:53:13Z",
-    "url": "https://www.last.fm/music/B.B.+King/_/You+Move+Me+So"
   }
 ]
