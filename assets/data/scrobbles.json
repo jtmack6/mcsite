@@ -1,5 +1,26 @@
 [
   {
+    "artist": "John Coltrane",
+    "track": "Dakar",
+    "album": "Dakar",
+    "timestamp": "2026-02-25T22:07:45Z",
+    "url": "https://www.last.fm/music/John+Coltrane/_/Dakar"
+  },
+  {
+    "artist": "John Coltrane",
+    "track": "Seraphic Light",
+    "album": "Stellar Regions",
+    "timestamp": "2026-02-25T22:02:40Z",
+    "url": "https://www.last.fm/music/John+Coltrane/_/Seraphic+Light"
+  },
+  {
+    "artist": "John Coltrane",
+    "track": "Seraphic Light",
+    "album": "Stellar Regions",
+    "timestamp": "2026-02-25T21:59:03Z",
+    "url": "https://www.last.fm/music/John+Coltrane/_/Seraphic+Light"
+  },
+  {
     "artist": "Alice Coltrane",
     "track": "Jagadishwar",
     "album": "Kirtan: Turiya Sings",
@@ -117,26 +138,5 @@
     "album": "Folk Singer",
     "timestamp": "2026-02-25T10:24:24Z",
     "url": "https://www.last.fm/music/Muddy+Waters/_/My+Home+Is+In+The+Delta"
-  },
-  {
-    "artist": "Junior Wells",
-    "track": "Fever",
-    "album": "Sings Live At The Golden Bear",
-    "timestamp": "2026-02-25T10:20:20Z",
-    "url": "https://www.last.fm/music/Junior+Wells/_/Fever"
-  },
-  {
-    "artist": "Little Walter",
-    "track": "Just Your Fool",
-    "album": "Boss Blues Harmonica",
-    "timestamp": "2026-02-25T10:17:13Z",
-    "url": "https://www.last.fm/music/Little+Walter/_/Just+Your+Fool"
-  },
-  {
-    "artist": "Albert King",
-    "track": "I've Made Nights by Myself",
-    "album": "The Big Blues",
-    "timestamp": "2026-02-25T10:14:41Z",
-    "url": "https://www.last.fm/music/Albert+King/_/I%27ve+Made+Nights+by+Myself"
   }
 ]
