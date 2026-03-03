@@ -1,6 +1,20 @@
 [
   {
     "artist": "Turbonegro",
+    "track": "Stroke the Shaft",
+    "album": "Retox",
+    "timestamp": "2026-03-03T07:02:58Z",
+    "url": "https://www.last.fm/music/Turbonegro/_/Stroke+the+Shaft"
+  },
+  {
+    "artist": "Turbonegro",
+    "track": "Hell Toupèe",
+    "album": "Retox",
+    "timestamp": "2026-03-03T06:59:31Z",
+    "url": "https://www.last.fm/music/Turbonegro/_/Hell+Toup%C3%A8e"
+  },
+  {
+    "artist": "Turbonegro",
     "track": "Welcome to the Garbage Dump",
     "album": "Retox",
     "timestamp": "2026-03-03T06:56:45Z",
@@ -124,19 +138,5 @@
     "album": "Detonator",
     "timestamp": "2026-03-03T03:54:20Z",
     "url": "https://www.last.fm/music/Ratt/_/One+Step+Away"
-  },
-  {
-    "artist": "Ratt",
-    "track": "Scratch That Itch",
-    "album": "Detonator",
-    "timestamp": "2026-03-03T03:50:17Z",
-    "url": "https://www.last.fm/music/Ratt/_/Scratch+That+Itch"
-  },
-  {
-    "artist": "Ratt",
-    "track": "Lovin’ You’s A Dirty Job",
-    "album": "Detonator",
-    "timestamp": "2026-03-03T03:47:03Z",
-    "url": "https://www.last.fm/music/Ratt/_/Lovin%E2%80%99+You%E2%80%99s+A+Dirty+Job"
   }
 ]
