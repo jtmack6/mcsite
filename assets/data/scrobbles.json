@@ -1,5 +1,19 @@
 [
   {
+    "artist": "Accept",
+    "track": "Making Me Scream",
+    "album": "Predator",
+    "timestamp": "2026-03-09T23:09:27Z",
+    "url": "https://www.last.fm/music/Accept/_/Making+Me+Scream"
+  },
+  {
+    "artist": "Accept",
+    "track": "Crossroads",
+    "album": "Predator",
+    "timestamp": "2026-03-09T23:04:45Z",
+    "url": "https://www.last.fm/music/Accept/_/Crossroads"
+  },
+  {
     "artist": "U.D.O.",
     "track": "The Land Of The Midnight Sun",
     "album": "Thunderball",
@@ -124,19 +138,5 @@
     "album": "Worse Than Dead",
     "timestamp": "2026-03-09T05:40:50Z",
     "url": "https://www.last.fm/music/Iron+Reagan/_/Cycles+of+Violence"
-  },
-  {
-    "artist": "Iron Reagan",
-    "track": "I Predict the Death of Harold Camping",
-    "album": "Worse Than Dead",
-    "timestamp": "2026-03-09T05:39:25Z",
-    "url": "https://www.last.fm/music/Iron+Reagan/_/I+Predict+the+Death+of+Harold+Camping"
-  },
-  {
-    "artist": "Iron Reagan",
-    "track": "Slightly Out of Focus",
-    "album": "Worse Than Dead",
-    "timestamp": "2026-03-09T05:38:30Z",
-    "url": "https://www.last.fm/music/Iron+Reagan/_/Slightly+Out+of+Focus"
   }
 ]
