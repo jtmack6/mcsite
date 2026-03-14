@@ -1,6 +1,20 @@
 [
   {
     "artist": "Angel Dust",
+    "track": "Follow Me, Part 2",
+    "album": "Bleed",
+    "timestamp": "2026-03-14T13:07:47Z",
+    "url": "https://www.last.fm/music/Angel+Dust/_/Follow+Me,+Part+2"
+  },
+  {
+    "artist": "Angel Dust",
+    "track": "Follow Me, Part 1",
+    "album": "Bleed",
+    "timestamp": "2026-03-14T13:00:11Z",
+    "url": "https://www.last.fm/music/Angel+Dust/_/Follow+Me,+Part+1"
+  },
+  {
+    "artist": "Angel Dust",
     "track": "Never",
     "album": "Bleed",
     "timestamp": "2026-03-14T10:25:06Z",
@@ -124,19 +138,5 @@
     "album": "Eight Headed Serpent",
     "timestamp": "2026-03-12T12:40:37Z",
     "url": "https://www.last.fm/music/Impaled+Nazarene/_/Mutilation+Of+The+Nazarene+Whore"
-  },
-  {
-    "artist": "Impaled Nazarene",
-    "track": "Unholy Necromancy",
-    "album": "Eight Headed Serpent",
-    "timestamp": "2026-03-12T12:38:28Z",
-    "url": "https://www.last.fm/music/Impaled+Nazarene/_/Unholy+Necromancy"
-  },
-  {
-    "artist": "Impaled Nazarene",
-    "track": "Triumphant Return Of The Antichrist",
-    "album": "Eight Headed Serpent",
-    "timestamp": "2026-03-12T12:36:05Z",
-    "url": "https://www.last.fm/music/Impaled+Nazarene/_/Triumphant+Return+Of+The+Antichrist"
   }
 ]
