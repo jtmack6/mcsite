@@ -1,6 +1,13 @@
 [
   {
     "artist": "Angel Dust",
+    "track": "Bleed",
+    "album": "Bleed",
+    "timestamp": "2026-03-15T06:44:54Z",
+    "url": "https://www.last.fm/music/Angel+Dust/_/Bleed"
+  },
+  {
+    "artist": "Angel Dust",
     "track": "Follow Me, Part 2",
     "album": "Bleed",
     "timestamp": "2026-03-14T13:07:47Z",
@@ -131,12 +138,5 @@
     "album": "Eight Headed Serpent",
     "timestamp": "2026-03-12T12:44:07Z",
     "url": "https://www.last.fm/music/Impaled+Nazarene/_/Foucault+Pendulum"
-  },
-  {
-    "artist": "Impaled Nazarene",
-    "track": "Mutilation Of The Nazarene Whore",
-    "album": "Eight Headed Serpent",
-    "timestamp": "2026-03-12T12:40:37Z",
-    "url": "https://www.last.fm/music/Impaled+Nazarene/_/Mutilation+Of+The+Nazarene+Whore"
   }
 ]
