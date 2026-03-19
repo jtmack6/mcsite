@@ -1,6 +1,20 @@
 [
   {
     "artist": "Temple of Void",
+    "track": "Soulburn",
+    "album": "The Crawl",
+    "timestamp": "2026-03-19T02:43:01Z",
+    "url": "https://www.last.fm/music/Temple+of+Void/_/Soulburn"
+  },
+  {
+    "artist": "Temple of Void",
+    "track": "Thy Mountain Eternal",
+    "album": "The Crawl",
+    "timestamp": "2026-03-19T02:36:21Z",
+    "url": "https://www.last.fm/music/Temple+of+Void/_/Thy+Mountain+Eternal"
+  },
+  {
+    "artist": "Temple of Void",
     "track": "A Dead Issue",
     "album": "The Crawl",
     "timestamp": "2026-03-19T02:30:18Z",
@@ -124,19 +138,5 @@
     "album": "Cosmic Music",
     "timestamp": "2026-03-18T17:18:44Z",
     "url": "https://www.last.fm/music/Alice+Coltrane/_/The+Sun"
-  },
-  {
-    "artist": "Alice Coltrane",
-    "track": "Reverend King",
-    "album": "Cosmic Music",
-    "timestamp": "2026-03-18T17:09:34Z",
-    "url": "https://www.last.fm/music/Alice+Coltrane/_/Reverend+King"
-  },
-  {
-    "artist": "Alice Coltrane",
-    "track": "Lord, Help Me To Be",
-    "album": "Cosmic Music",
-    "timestamp": "2026-03-18T17:01:38Z",
-    "url": "https://www.last.fm/music/Alice+Coltrane/_/Lord,+Help+Me+To+Be"
   }
 ]
