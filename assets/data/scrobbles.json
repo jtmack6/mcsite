@@ -1,5 +1,12 @@
 [
   {
+    "artist": "Sumac",
+    "track": "Spectral Gold",
+    "album": "The Deal",
+    "timestamp": "2026-03-22T22:41:33Z",
+    "url": "https://www.last.fm/music/Sumac/_/Spectral+Gold"
+  },
+  {
     "artist": "Ufomammut",
     "track": "Chaosecret",
     "album": "Ecate",
@@ -131,12 +138,5 @@
     "album": "Fires Within Fires",
     "timestamp": "2026-03-21T22:11:14Z",
     "url": "https://www.last.fm/music/Neurosis/_/Reach"
-  },
-  {
-    "artist": "Neurosis",
-    "track": "Broken Ground",
-    "album": "Fires Within Fires",
-    "timestamp": "2026-03-21T22:02:35Z",
-    "url": "https://www.last.fm/music/Neurosis/_/Broken+Ground"
   }
 ]
