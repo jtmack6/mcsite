@@ -1,5 +1,26 @@
 [
   {
+    "artist": "Krisiun",
+    "track": "Perpetuation",
+    "album": "Ageless Venomous",
+    "timestamp": "2026-03-25T09:13:51Z",
+    "url": "https://www.last.fm/music/Krisiun/_/Perpetuation"
+  },
+  {
+    "artist": "Manticore",
+    "track": "Behold the Ascension of the Execrated",
+    "album": "Behold the Ascension of the Execrated",
+    "timestamp": "2026-03-25T09:08:22Z",
+    "url": "https://www.last.fm/music/Manticore/_/Behold+the+Ascension+of+the+Execrated"
+  },
+  {
+    "artist": "In Flames",
+    "track": "Drained",
+    "album": "Battles",
+    "timestamp": "2026-03-25T09:04:25Z",
+    "url": "https://www.last.fm/music/In+Flames/_/Drained"
+  },
+  {
     "artist": "Haken",
     "track": "Atlas Stone",
     "album": "The Mountain",
@@ -117,26 +138,5 @@
     "album": "Frizzle Fry",
     "timestamp": "2026-03-24T20:58:03Z",
     "url": "https://www.last.fm/music/Primus/_/Groundhog%E2%80%99s+Day"
-  },
-  {
-    "artist": "Primus",
-    "track": "To Defy the Laws of Tradition",
-    "album": "Frizzle Fry",
-    "timestamp": "2026-03-24T20:52:13Z",
-    "url": "https://www.last.fm/music/Primus/_/To+Defy+the+Laws+of+Tradition"
-  },
-  {
-    "artist": "Voivod",
-    "track": "We Are Not Alone",
-    "album": "The Outer Limits",
-    "timestamp": "2026-03-24T20:47:55Z",
-    "url": "https://www.last.fm/music/Voivod/_/We+Are+Not+Alone"
-  },
-  {
-    "artist": "Voivod",
-    "track": "Wrong-Way Street",
-    "album": "The Outer Limits",
-    "timestamp": "2026-03-24T20:43:50Z",
-    "url": "https://www.last.fm/music/Voivod/_/Wrong-Way+Street"
   }
 ]
