@@ -1,5 +1,19 @@
 [
   {
+    "artist": "Dream Theater",
+    "track": "In the Arms of Morpheus",
+    "album": "Parasomnia",
+    "timestamp": "2026-03-29T02:03:01Z",
+    "url": "https://www.last.fm/music/Dream+Theater/_/In+the+Arms+of+Morpheus"
+  },
+  {
+    "artist": "Dream Theater",
+    "track": "The Glass Prison",
+    "album": "Six Degrees of Inner Turbulence",
+    "timestamp": "2026-03-29T01:56:10Z",
+    "url": "https://www.last.fm/music/Dream+Theater/_/The+Glass+Prison"
+  },
+  {
     "artist": "The Devil’s Blood",
     "track": "The Time Of No Time",
     "album": "The Time Of No Time Evermore",
@@ -124,19 +138,5 @@
     "album": "Fragile",
     "timestamp": "2026-03-26T23:08:07Z",
     "url": "https://www.last.fm/music/Yes/_/We+Have+Heaven+(2024+Steven+Wilson+Remix)"
-  },
-  {
-    "artist": "Yes",
-    "track": "Cans and Brahms (2024 Steven Wilson Remix)",
-    "album": "Fragile",
-    "timestamp": "2026-03-26T23:06:28Z",
-    "url": "https://www.last.fm/music/Yes/_/Cans+and+Brahms+(2024+Steven+Wilson+Remix)"
-  },
-  {
-    "artist": "Yes",
-    "track": "Roundabout (2024 Steven Wilson Remix)",
-    "album": "Fragile",
-    "timestamp": "2026-03-26T23:01:01Z",
-    "url": "https://www.last.fm/music/Yes/_/Roundabout+(2024+Steven+Wilson+Remix)"
   }
 ]
