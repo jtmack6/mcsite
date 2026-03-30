@@ -1,5 +1,61 @@
 [
   {
+    "artist": "Bewitched",
+    "track": "Evil",
+    "album": "Encyclopedia of Evil",
+    "timestamp": "2026-03-30T02:46:03Z",
+    "url": "https://www.last.fm/music/Bewitched/_/Evil"
+  },
+  {
+    "artist": "Bewitched",
+    "track": "Sacrifice",
+    "album": "Encyclopedia of Evil",
+    "timestamp": "2026-03-30T02:34:30Z",
+    "url": "https://www.last.fm/music/Bewitched/_/Sacrifice"
+  },
+  {
+    "artist": "Bewitched",
+    "track": "Warhead",
+    "album": "Encyclopedia of Evil",
+    "timestamp": "2026-03-30T02:30:46Z",
+    "url": "https://www.last.fm/music/Bewitched/_/Warhead"
+  },
+  {
+    "artist": "Bewitched",
+    "track": "Prologue",
+    "album": "Encyclopedia of Evil",
+    "timestamp": "2026-03-30T02:28:32Z",
+    "url": "https://www.last.fm/music/Bewitched/_/Prologue"
+  },
+  {
+    "artist": "Carpenter Brut",
+    "track": "She Rules the Ruins",
+    "album": "Leather Temple",
+    "timestamp": "2026-03-29T21:38:15Z",
+    "url": "https://www.last.fm/music/Carpenter+Brut/_/She+Rules+the+Ruins"
+  },
+  {
+    "artist": "Carpenter Brut",
+    "track": "Leather Temple",
+    "album": "Leather Temple",
+    "timestamp": "2026-03-29T21:35:17Z",
+    "url": "https://www.last.fm/music/Carpenter+Brut/_/Leather+Temple"
+  },
+  {
+    "artist": "Carpenter Brut",
+    "track": "Major Threat",
+    "album": "Leather Temple",
+    "timestamp": "2026-03-29T21:31:26Z",
+    "url": "https://www.last.fm/music/Carpenter+Brut/_/Major+Threat"
+  },
+  {
+    "artist": "Carpenter Brut",
+    "track": "Ouverture (Deus Ex Machina)",
+    "album": "Leather Temple",
+    "timestamp": "2026-03-29T20:54:10Z",
+    "url": "https://www.last.fm/music/Carpenter+Brut/_/Ouverture+(Deus+Ex+Machina)"
+  },
+  {
     "artist": "Dream Theater",
     "track": "In the Arms of Morpheus",
     "album": "Parasomnia",
@@ -82,61 +138,5 @@
     "album": "The Thousandfold Epicentre",
     "timestamp": "2026-03-27T20:31:28Z",
     "url": "https://www.last.fm/music/The+Devil%E2%80%99s+Blood/_/On+The+Wings+Of+Gloria"
-  },
-  {
-    "artist": "The Devil’s Blood",
-    "track": "Unending Singularity",
-    "album": "The Thousandfold Epicentre",
-    "timestamp": "2026-03-27T20:26:32Z",
-    "url": "https://www.last.fm/music/The+Devil%E2%80%99s+Blood/_/Unending+Singularity"
-  },
-  {
-    "artist": "Van Halen",
-    "track": "She’s The Woman",
-    "album": "A Different Kind Of Truth",
-    "timestamp": "2026-03-27T03:47:31Z",
-    "url": "https://www.last.fm/music/Van+Halen/_/She%E2%80%99s+The+Woman"
-  },
-  {
-    "artist": "Triptykon",
-    "track": "Boleskine House",
-    "album": "Melana Chasmata",
-    "timestamp": "2026-03-27T03:34:03Z",
-    "url": "https://www.last.fm/music/Triptykon/_/Boleskine+House"
-  },
-  {
-    "artist": "Triptykon",
-    "track": "Tree Of Suffocating Souls",
-    "album": "Melana Chasmata",
-    "timestamp": "2026-03-27T03:26:29Z",
-    "url": "https://www.last.fm/music/Triptykon/_/Tree+Of+Suffocating+Souls"
-  },
-  {
-    "artist": "Van Halen",
-    "track": "Everybody Wants Some!!",
-    "album": "Women and Children First",
-    "timestamp": "2026-03-27T01:23:20Z",
-    "url": "https://www.last.fm/music/Van+Halen/_/Everybody+Wants+Some!!"
-  },
-  {
-    "artist": "Yes",
-    "track": "Then",
-    "album": "Time and a Word",
-    "timestamp": "2026-03-26T23:20:25Z",
-    "url": "https://www.last.fm/music/Yes/_/Then"
-  },
-  {
-    "artist": "Yes",
-    "track": "No Opportunity Necessary, No Experience Needed",
-    "album": "Time and a Word",
-    "timestamp": "2026-03-26T23:15:04Z",
-    "url": "https://www.last.fm/music/Yes/_/No+Opportunity+Necessary,+No+Experience+Needed"
-  },
-  {
-    "artist": "Yes",
-    "track": "We Have Heaven (2024 Steven Wilson Remix)",
-    "album": "Fragile",
-    "timestamp": "2026-03-26T23:08:07Z",
-    "url": "https://www.last.fm/music/Yes/_/We+Have+Heaven+(2024+Steven+Wilson+Remix)"
   }
 ]
