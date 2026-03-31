@@ -1,5 +1,12 @@
 [
   {
+    "artist": "Vintersorg",
+    "track": "Efter Dis Kommer Dimma",
+    "album": "Vattenkrafternas Spel",
+    "timestamp": "2026-03-31T10:26:57Z",
+    "url": "https://www.last.fm/music/Vintersorg/_/Efter+Dis+Kommer+Dimma"
+  },
+  {
     "artist": "Aephanemer",
     "track": "Dissonance Within",
     "album": "Prokopton",
@@ -131,12 +138,5 @@
     "album": "Leather Temple",
     "timestamp": "2026-03-30T04:30:50Z",
     "url": "https://www.last.fm/music/Carpenter+Brut/_/The+Misfits+%2F+The+Rebels"
-  },
-  {
-    "artist": "Carpenter Brut",
-    "track": "Iron Sanctuary",
-    "album": "Leather Temple",
-    "timestamp": "2026-03-30T04:27:24Z",
-    "url": "https://www.last.fm/music/Carpenter+Brut/_/Iron+Sanctuary"
   }
 ]
