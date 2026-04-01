@@ -1,5 +1,68 @@
 [
   {
+    "artist": "Carpenter Brut",
+    "track": "Speed or Perish",
+    "album": "Leather Temple",
+    "timestamp": "2026-03-31T17:55:08Z",
+    "url": "https://www.last.fm/music/Carpenter+Brut/_/Speed+or+Perish"
+  },
+  {
+    "artist": "Carpenter Brut",
+    "track": "The Misfits / The Rebels",
+    "album": "Leather Temple",
+    "timestamp": "2026-03-31T17:51:05Z",
+    "url": "https://www.last.fm/music/Carpenter+Brut/_/The+Misfits+%2F+The+Rebels"
+  },
+  {
+    "artist": "Carpenter Brut",
+    "track": "Iron Sanctuary",
+    "album": "Leather Temple",
+    "timestamp": "2026-03-31T17:25:48Z",
+    "url": "https://www.last.fm/music/Carpenter+Brut/_/Iron+Sanctuary"
+  },
+  {
+    "artist": "Carpenter Brut",
+    "track": "Major Threat",
+    "album": "Leather Temple",
+    "timestamp": "2026-03-31T17:08:33Z",
+    "url": "https://www.last.fm/music/Carpenter+Brut/_/Major+Threat"
+  },
+  {
+    "artist": "Carpenter Brut",
+    "track": "Neon Requiem",
+    "album": "Leather Temple",
+    "timestamp": "2026-03-31T16:49:16Z",
+    "url": "https://www.last.fm/music/Carpenter+Brut/_/Neon+Requiem"
+  },
+  {
+    "artist": "Carpenter Brut",
+    "track": "Start Your Engines",
+    "album": "Leather Temple",
+    "timestamp": "2026-03-31T16:45:38Z",
+    "url": "https://www.last.fm/music/Carpenter+Brut/_/Start+Your+Engines"
+  },
+  {
+    "artist": "Carpenter Brut",
+    "track": "She Rules the Ruins",
+    "album": "Leather Temple",
+    "timestamp": "2026-03-31T16:41:55Z",
+    "url": "https://www.last.fm/music/Carpenter+Brut/_/She+Rules+the+Ruins"
+  },
+  {
+    "artist": "Carpenter Brut",
+    "track": "Leather Temple",
+    "album": "Leather Temple",
+    "timestamp": "2026-03-31T16:38:35Z",
+    "url": "https://www.last.fm/music/Carpenter+Brut/_/Leather+Temple"
+  },
+  {
+    "artist": "Carpenter Brut",
+    "track": "Major Threat",
+    "album": "Leather Temple",
+    "timestamp": "2026-03-31T16:34:17Z",
+    "url": "https://www.last.fm/music/Carpenter+Brut/_/Major+Threat"
+  },
+  {
     "artist": "Vintersorg",
     "track": "Efter Dis Kommer Dimma",
     "album": "Vattenkrafternas Spel",
@@ -75,68 +138,5 @@
     "album": "Goliath",
     "timestamp": "2026-03-31T00:21:09Z",
     "url": "https://www.last.fm/music/Exodus/_/3111"
-  },
-  {
-    "artist": "Spiritworld",
-    "track": "No Vacancy in Heaven",
-    "album": "Helldorado",
-    "timestamp": "2026-03-31T00:14:24Z",
-    "url": "https://www.last.fm/music/Spiritworld/_/No+Vacancy+in+Heaven"
-  },
-  {
-    "artist": "Spiritworld",
-    "track": "Abilene Grime",
-    "album": "Helldorado",
-    "timestamp": "2026-03-31T00:10:47Z",
-    "url": "https://www.last.fm/music/Spiritworld/_/Abilene+Grime"
-  },
-  {
-    "artist": "Triptykon",
-    "track": "Goetia",
-    "album": "Eparistera Daimones",
-    "timestamp": "2026-03-30T21:46:12Z",
-    "url": "https://www.last.fm/music/Triptykon/_/Goetia"
-  },
-  {
-    "artist": "Triptykon",
-    "track": "Goetia",
-    "album": "Eparistera Daimones",
-    "timestamp": "2026-03-30T21:36:58Z",
-    "url": "https://www.last.fm/music/Triptykon/_/Goetia"
-  },
-  {
-    "artist": "The Devil’s Blood",
-    "track": "I Was Promised a Hunt",
-    "album": "III: Tabula Rasa or Death And The Seven Pillars",
-    "timestamp": "2026-03-30T21:27:18Z",
-    "url": "https://www.last.fm/music/The+Devil%E2%80%99s+Blood/_/I+Was+Promised+a+Hunt"
-  },
-  {
-    "artist": "Carpenter Brut",
-    "track": "Start Your Engines",
-    "album": "Leather Temple",
-    "timestamp": "2026-03-30T16:37:48Z",
-    "url": "https://www.last.fm/music/Carpenter+Brut/_/Start+Your+Engines"
-  },
-  {
-    "artist": "Carpenter Brut",
-    "track": "The End Complete",
-    "album": "Leather Temple",
-    "timestamp": "2026-03-30T04:40:17Z",
-    "url": "https://www.last.fm/music/Carpenter+Brut/_/The+End+Complete"
-  },
-  {
-    "artist": "Carpenter Brut",
-    "track": "Speed or Perish",
-    "album": "Leather Temple",
-    "timestamp": "2026-03-30T04:35:01Z",
-    "url": "https://www.last.fm/music/Carpenter+Brut/_/Speed+or+Perish"
-  },
-  {
-    "artist": "Carpenter Brut",
-    "track": "The Misfits / The Rebels",
-    "album": "Leather Temple",
-    "timestamp": "2026-03-30T04:30:50Z",
-    "url": "https://www.last.fm/music/Carpenter+Brut/_/The+Misfits+%2F+The+Rebels"
   }
 ]
