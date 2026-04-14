@@ -1,6 +1,13 @@
 [
   {
     "artist": "Melvins",
+    "track": "The Talking Horse",
+    "album": "(A) Senile Animal",
+    "timestamp": "2026-04-13T23:27:13Z",
+    "url": "https://www.last.fm/music/Melvins/_/The+Talking+Horse"
+  },
+  {
+    "artist": "Melvins",
     "track": "The Hawk",
     "album": "(A) Senile Animal",
     "timestamp": "2026-04-13T05:49:21Z",
@@ -131,12 +138,5 @@
     "album": "Easter",
     "timestamp": "2026-04-11T03:40:25Z",
     "url": "https://www.last.fm/music/Patti+Smith/_/Privilege+(Set+Me+Free)"
-  },
-  {
-    "artist": "Patti Smith",
-    "track": "Rock n Roll Nigger",
-    "album": "Easter",
-    "timestamp": "2026-04-11T03:37:05Z",
-    "url": "https://www.last.fm/music/Patti+Smith/_/Rock+n+Roll+Nigger"
   }
 ]
