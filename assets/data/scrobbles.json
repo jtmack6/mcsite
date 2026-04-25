@@ -1,5 +1,12 @@
 [
   {
+    "artist": "Havukruunu",
+    "track": "Kuoleman Oma",
+    "album": "Tavastland",
+    "timestamp": "2026-04-25T11:07:18Z",
+    "url": "https://www.last.fm/music/Havukruunu/_/Kuoleman+Oma"
+  },
+  {
     "artist": "Montefiori Cocktail",
     "track": "Gne Gne",
     "album": "... A Taste Of (Un Sorso Di…) [Un Sorso Di...]",
@@ -131,12 +138,5 @@
     "album": "To the Nameless Dead",
     "timestamp": "2026-04-21T08:14:05Z",
     "url": "https://www.last.fm/music/Primordial/_/Gallows+Hymn"
-  },
-  {
-    "artist": "Melvins",
-    "track": "The Talking Horse",
-    "album": "(A) Senile Animal",
-    "timestamp": "2026-04-21T08:10:02Z",
-    "url": "https://www.last.fm/music/Melvins/_/The+Talking+Horse"
   }
 ]
