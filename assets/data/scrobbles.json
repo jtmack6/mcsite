@@ -1,5 +1,12 @@
 [
   {
+    "artist": "Pharoah Sanders",
+    "track": "The Creator Has A Master Plan",
+    "album": "Karma",
+    "timestamp": "2026-04-28T08:15:27Z",
+    "url": "https://www.last.fm/music/Pharoah+Sanders/_/The+Creator+Has+A+Master+Plan"
+  },
+  {
     "artist": "Alice Coltrane",
     "track": "Mantra",
     "album": "Ptah, the El Daoud",
@@ -131,12 +138,5 @@
     "album": "Chainsaw Dismemberment",
     "timestamp": "2026-04-27T14:44:33Z",
     "url": "https://www.last.fm/music/Mortician/_/Drowned+in+Your+Blood"
-  },
-  {
-    "artist": "Mortician",
-    "track": "Fleshripper",
-    "album": "Chainsaw Dismemberment",
-    "timestamp": "2026-04-27T14:43:07Z",
-    "url": "https://www.last.fm/music/Mortician/_/Fleshripper"
   }
 ]
