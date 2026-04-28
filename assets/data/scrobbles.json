@@ -1,6 +1,13 @@
 [
   {
     "artist": "Pharoah Sanders",
+    "track": "Colors",
+    "album": "Karma",
+    "timestamp": "2026-04-28T08:47:04Z",
+    "url": "https://www.last.fm/music/Pharoah+Sanders/_/Colors"
+  },
+  {
+    "artist": "Pharoah Sanders",
     "track": "The Creator Has A Master Plan",
     "album": "Karma",
     "timestamp": "2026-04-28T08:15:27Z",
@@ -131,12 +138,5 @@
     "album": "Chainsaw Dismemberment",
     "timestamp": "2026-04-27T14:46:11Z",
     "url": "https://www.last.fm/music/Mortician/_/Mass+Mutilation"
-  },
-  {
-    "artist": "Mortician",
-    "track": "Drowned in Your Blood",
-    "album": "Chainsaw Dismemberment",
-    "timestamp": "2026-04-27T14:44:33Z",
-    "url": "https://www.last.fm/music/Mortician/_/Drowned+in+Your+Blood"
   }
 ]
