@@ -1,6 +1,41 @@
 [
   {
     "artist": "Carpenter Brut",
+    "track": "Neon Requiem",
+    "album": "Leather Temple",
+    "timestamp": "2026-05-03T03:17:09Z",
+    "url": "https://www.last.fm/music/Carpenter+Brut/_/Neon+Requiem"
+  },
+  {
+    "artist": "Carpenter Brut",
+    "track": "Start Your Engines",
+    "album": "Leather Temple",
+    "timestamp": "2026-05-03T03:13:37Z",
+    "url": "https://www.last.fm/music/Carpenter+Brut/_/Start+Your+Engines"
+  },
+  {
+    "artist": "Carpenter Brut",
+    "track": "She Rules the Ruins",
+    "album": "Leather Temple",
+    "timestamp": "2026-05-03T03:09:55Z",
+    "url": "https://www.last.fm/music/Carpenter+Brut/_/She+Rules+the+Ruins"
+  },
+  {
+    "artist": "Carpenter Brut",
+    "track": "Leather Temple",
+    "album": "Leather Temple",
+    "timestamp": "2026-05-03T03:06:28Z",
+    "url": "https://www.last.fm/music/Carpenter+Brut/_/Leather+Temple"
+  },
+  {
+    "artist": "Carpenter Brut",
+    "track": "Major Threat",
+    "album": "Leather Temple",
+    "timestamp": "2026-05-03T03:02:11Z",
+    "url": "https://www.last.fm/music/Carpenter+Brut/_/Major+Threat"
+  },
+  {
+    "artist": "Carpenter Brut",
     "track": "Major Threat",
     "album": "Leather Temple",
     "timestamp": "2026-05-02T16:06:01Z",
@@ -103,40 +138,5 @@
     "album": "Congregation of Annihilation",
     "timestamp": "2026-05-02T12:28:07Z",
     "url": "https://www.last.fm/music/Metal+Church/_/Another+Judgement+Day"
-  },
-  {
-    "artist": "Danzig",
-    "track": "Black Laden Crown",
-    "album": "Black Laden Crown",
-    "timestamp": "2026-05-02T12:23:28Z",
-    "url": "https://www.last.fm/music/Danzig/_/Black+Laden+Crown"
-  },
-  {
-    "artist": "Green Carnation",
-    "track": "The Quiet Offspring",
-    "album": "The Quiet Offspring",
-    "timestamp": "2026-05-02T12:18:36Z",
-    "url": "https://www.last.fm/music/Green+Carnation/_/The+Quiet+Offspring"
-  },
-  {
-    "artist": "Dream Theater",
-    "track": "Awaken the Master",
-    "album": "A View From the Top of the World",
-    "timestamp": "2026-05-02T12:10:54Z",
-    "url": "https://www.last.fm/music/Dream+Theater/_/Awaken+the+Master"
-  },
-  {
-    "artist": "Khold",
-    "track": "Myr",
-    "album": "Til Endes",
-    "timestamp": "2026-05-02T12:05:11Z",
-    "url": "https://www.last.fm/music/Khold/_/Myr"
-  },
-  {
-    "artist": "My Dying Bride",
-    "track": "Thornwyck Hymn",
-    "album": "A Mortal Binding",
-    "timestamp": "2026-05-02T11:59:42Z",
-    "url": "https://www.last.fm/music/My+Dying+Bride/_/Thornwyck+Hymn"
   }
 ]
