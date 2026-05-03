@@ -1,5 +1,75 @@
 [
   {
+    "artist": "Firebird",
+    "track": "Slow Blues",
+    "album": "Deluxe",
+    "timestamp": "2026-05-03T07:45:46Z",
+    "url": "https://www.last.fm/music/Firebird/_/Slow+Blues"
+  },
+  {
+    "artist": "Firebird",
+    "track": "Sad Man's Quarter",
+    "album": "Deluxe",
+    "timestamp": "2026-05-03T07:42:09Z",
+    "url": "https://www.last.fm/music/Firebird/_/Sad+Man%27s+Quarter"
+  },
+  {
+    "artist": "Firebird",
+    "track": "Sinner Takes All",
+    "album": "Deluxe",
+    "timestamp": "2026-05-03T07:38:01Z",
+    "url": "https://www.last.fm/music/Firebird/_/Sinner+Takes+All"
+  },
+  {
+    "artist": "Firebird",
+    "track": "Lonely \u0026 Sober",
+    "album": "Deluxe",
+    "timestamp": "2026-05-03T07:34:00Z",
+    "url": "https://www.last.fm/music/Firebird/_/Lonely+\u0026+Sober"
+  },
+  {
+    "artist": "Celtic Frost",
+    "track": "Circle of the Tyrants",
+    "album": "To Mega Therion",
+    "timestamp": "2026-05-03T07:29:24Z",
+    "url": "https://www.last.fm/music/Celtic+Frost/_/Circle+of+the+Tyrants"
+  },
+  {
+    "artist": "Angel Dust",
+    "track": "Follow Me, Part 2",
+    "album": "Bleed",
+    "timestamp": "2026-05-03T06:10:37Z",
+    "url": "https://www.last.fm/music/Angel+Dust/_/Follow+Me,+Part+2"
+  },
+  {
+    "artist": "Angel Dust",
+    "track": "Never",
+    "album": "Bleed",
+    "timestamp": "2026-05-03T06:02:46Z",
+    "url": "https://www.last.fm/music/Angel+Dust/_/Never"
+  },
+  {
+    "artist": "Angel Dust",
+    "track": "Black Rain",
+    "album": "Bleed",
+    "timestamp": "2026-05-03T05:57:49Z",
+    "url": "https://www.last.fm/music/Angel+Dust/_/Black+Rain"
+  },
+  {
+    "artist": "Angel Dust",
+    "track": "Bleed",
+    "album": "Bleed",
+    "timestamp": "2026-05-03T05:53:47Z",
+    "url": "https://www.last.fm/music/Angel+Dust/_/Bleed"
+  },
+  {
+    "artist": "Enslaved",
+    "track": "Entroper",
+    "album": "Ruun",
+    "timestamp": "2026-05-03T05:16:03Z",
+    "url": "https://www.last.fm/music/Enslaved/_/Entroper"
+  },
+  {
     "artist": "Carpenter Brut",
     "track": "Neon Requiem",
     "album": "Leather Temple",
@@ -68,75 +138,5 @@
     "album": "Hesitating Lights",
     "timestamp": "2026-05-02T15:50:39Z",
     "url": "https://www.last.fm/music/Floating/_/I+Reached+the+Mew"
-  },
-  {
-    "artist": "Pelican",
-    "track": "Last Day of Winter (SGSII demo)",
-    "album": "The Fire in Our Throats Will Beckon the Thaw",
-    "timestamp": "2026-05-02T13:59:58Z",
-    "url": "https://www.last.fm/music/Pelican/_/Last+Day+of+Winter+(SGSII+demo)"
-  },
-  {
-    "artist": "Pelican",
-    "track": "Sirius (SGSII demo)",
-    "album": "The Fire in Our Throats Will Beckon the Thaw",
-    "timestamp": "2026-05-02T13:53:18Z",
-    "url": "https://www.last.fm/music/Pelican/_/Sirius+(SGSII+demo)"
-  },
-  {
-    "artist": "Pelican",
-    "track": "Autumn Into Summer (SGSII demo)",
-    "album": "The Fire in Our Throats Will Beckon the Thaw",
-    "timestamp": "2026-05-02T13:44:25Z",
-    "url": "https://www.last.fm/music/Pelican/_/Autumn+Into+Summer+(SGSII+demo)"
-  },
-  {
-    "artist": "Pelican",
-    "track": "Ran Amber",
-    "album": "The Fire in Our Throats Will Beckon the Thaw",
-    "timestamp": "2026-05-02T13:35:16Z",
-    "url": "https://www.last.fm/music/Pelican/_/Ran+Amber"
-  },
-  {
-    "artist": "Pelican",
-    "track": "Sirius",
-    "album": "The Fire in Our Throats Will Beckon the Thaw",
-    "timestamp": "2026-05-02T13:28:32Z",
-    "url": "https://www.last.fm/music/Pelican/_/Sirius"
-  },
-  {
-    "artist": "Pelican",
-    "track": "Aurora Borealis",
-    "album": "The Fire in Our Throats Will Beckon the Thaw",
-    "timestamp": "2026-05-02T13:23:05Z",
-    "url": "https://www.last.fm/music/Pelican/_/Aurora+Borealis"
-  },
-  {
-    "artist": "Pelican",
-    "track": "Red Ran Amber",
-    "album": "The Fire in Our Throats Will Beckon the Thaw",
-    "timestamp": "2026-05-02T13:13:09Z",
-    "url": "https://www.last.fm/music/Pelican/_/Red+Ran+Amber"
-  },
-  {
-    "artist": "Pelican",
-    "track": "Autumn into Summer",
-    "album": "The Fire in Our Throats Will Beckon the Thaw",
-    "timestamp": "2026-05-02T13:02:40Z",
-    "url": "https://www.last.fm/music/Pelican/_/Autumn+into+Summer"
-  },
-  {
-    "artist": "October Tide",
-    "track": "Our Constellation",
-    "album": "Tunnel of No Light",
-    "timestamp": "2026-05-02T12:34:53Z",
-    "url": "https://www.last.fm/music/October+Tide/_/Our+Constellation"
-  },
-  {
-    "artist": "Metal Church",
-    "track": "Another Judgement Day",
-    "album": "Congregation of Annihilation",
-    "timestamp": "2026-05-02T12:28:07Z",
-    "url": "https://www.last.fm/music/Metal+Church/_/Another+Judgement+Day"
   }
 ]
