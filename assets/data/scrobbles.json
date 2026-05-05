@@ -1,5 +1,12 @@
 [
   {
+    "artist": "Havukruunu",
+    "track": "Kuoleman Oma",
+    "album": "Tavastland",
+    "timestamp": "2026-05-05T03:48:16Z",
+    "url": "https://www.last.fm/music/Havukruunu/_/Kuoleman+Oma"
+  },
+  {
     "artist": "Primus",
     "track": "Intruder",
     "album": "Miscellaneous Debris",
@@ -131,12 +138,5 @@
     "album": "The Rescue",
     "timestamp": "2026-05-05T00:27:30Z",
     "url": "https://www.last.fm/music/Explosions+in+the+Sky/_/Day+Four"
-  },
-  {
-    "artist": "Mono",
-    "track": "Kanata",
-    "album": "The Last Dawn",
-    "timestamp": "2026-05-05T00:23:08Z",
-    "url": "https://www.last.fm/music/Mono/_/Kanata"
   }
 ]
