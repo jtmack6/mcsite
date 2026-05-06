@@ -1,6 +1,83 @@
 [
   {
     "artist": "W.A.S.P.",
+    "track": "Kill Your Pretty Face",
+    "album": "Kill Fuck Die",
+    "timestamp": "2026-05-06T01:12:04Z",
+    "url": "https://www.last.fm/music/W.A.S.P./_/Kill+Your+Pretty+Face"
+  },
+  {
+    "artist": "W.A.S.P.",
+    "track": "Killahead",
+    "album": "Kill Fuck Die",
+    "timestamp": "2026-05-06T01:07:09Z",
+    "url": "https://www.last.fm/music/W.A.S.P./_/Killahead"
+  },
+  {
+    "artist": "W.A.S.P.",
+    "track": "My Tortured Eyes",
+    "album": "Kill Fuck Die",
+    "timestamp": "2026-05-06T01:02:51Z",
+    "url": "https://www.last.fm/music/W.A.S.P./_/My+Tortured+Eyes"
+  },
+  {
+    "artist": "W.A.S.P.",
+    "track": "Take The Addiction",
+    "album": "Kill Fuck Die",
+    "timestamp": "2026-05-06T00:59:11Z",
+    "url": "https://www.last.fm/music/W.A.S.P./_/Take+The+Addiction"
+  },
+  {
+    "artist": "W.A.S.P.",
+    "track": "Kill Fuck Die",
+    "album": "Kill Fuck Die",
+    "timestamp": "2026-05-06T00:55:07Z",
+    "url": "https://www.last.fm/music/W.A.S.P./_/Kill+Fuck+Die"
+  },
+  {
+    "artist": "W.A.S.P.",
+    "track": "I Wanna Be Somebody",
+    "album": "WASP [Victor, VICP-60149, Japan]",
+    "timestamp": "2026-05-06T00:50:30Z",
+    "url": "https://www.last.fm/music/W.A.S.P./_/I+Wanna+Be+Somebody"
+  },
+  {
+    "artist": "W.A.S.P.",
+    "track": "Animal (Fuck Like A Beast)",
+    "album": "WASP [Victor, VICP-60149, Japan]",
+    "timestamp": "2026-05-06T00:46:52Z",
+    "url": "https://www.last.fm/music/W.A.S.P./_/Animal+(Fuck+Like+A+Beast)"
+  },
+  {
+    "artist": "W.A.S.P.",
+    "track": "9.5.-N.A.S.T.Y.",
+    "album": "Inside The Electric Circus",
+    "timestamp": "2026-05-05T22:56:23Z",
+    "url": "https://www.last.fm/music/W.A.S.P./_/9.5.-N.A.S.T.Y."
+  },
+  {
+    "artist": "W.A.S.P.",
+    "track": "I Don't Need No Doctor",
+    "album": "Inside The Electric Circus",
+    "timestamp": "2026-05-05T22:52:10Z",
+    "url": "https://www.last.fm/music/W.A.S.P./_/I+Don%27t+Need+No+Doctor"
+  },
+  {
+    "artist": "W.A.S.P.",
+    "track": "Inside The Electric Circus",
+    "album": "Inside The Electric Circus",
+    "timestamp": "2026-05-05T22:48:37Z",
+    "url": "https://www.last.fm/music/W.A.S.P./_/Inside+The+Electric+Circus"
+  },
+  {
+    "artist": "W.A.S.P.",
+    "track": "The Big Welcome",
+    "album": "Inside The Electric Circus",
+    "timestamp": "2026-05-05T22:46:13Z",
+    "url": "https://www.last.fm/music/W.A.S.P./_/The+Big+Welcome"
+  },
+  {
+    "artist": "W.A.S.P.",
     "track": "School Daze",
     "album": "WASP",
     "timestamp": "2026-05-05T18:29:16Z",
@@ -61,82 +138,5 @@
     "album": "Yes",
     "timestamp": "2026-05-05T17:58:16Z",
     "url": "https://www.last.fm/music/Morphine/_/Whisper"
-  },
-  {
-    "artist": "Morphine",
-    "track": "Radar",
-    "album": "Yes",
-    "timestamp": "2026-05-05T17:54:48Z",
-    "url": "https://www.last.fm/music/Morphine/_/Radar"
-  },
-  {
-    "artist": "Morphine",
-    "track": "Scratch",
-    "album": "Yes",
-    "timestamp": "2026-05-05T17:51:33Z",
-    "url": "https://www.last.fm/music/Morphine/_/Scratch"
-  },
-  {
-    "artist": "Morphine",
-    "track": "Honey White",
-    "album": "Yes",
-    "timestamp": "2026-05-05T17:48:28Z",
-    "url": "https://www.last.fm/music/Morphine/_/Honey+White"
-  },
-  {
-    "artist": "Havukruunu",
-    "track": "Kuoleman Oma",
-    "album": "Tavastland",
-    "timestamp": "2026-05-05T03:48:16Z",
-    "url": "https://www.last.fm/music/Havukruunu/_/Kuoleman+Oma"
-  },
-  {
-    "artist": "Primus",
-    "track": "Intruder",
-    "album": "Miscellaneous Debris",
-    "timestamp": "2026-05-05T02:05:28Z",
-    "url": "https://www.last.fm/music/Primus/_/Intruder"
-  },
-  {
-    "artist": "Leprous",
-    "track": "Root",
-    "album": "Malina",
-    "timestamp": "2026-05-05T02:00:18Z",
-    "url": "https://www.last.fm/music/Leprous/_/Root"
-  },
-  {
-    "artist": "Messa",
-    "track": "Alba",
-    "album": "Belfry",
-    "timestamp": "2026-05-05T01:56:12Z",
-    "url": "https://www.last.fm/music/Messa/_/Alba"
-  },
-  {
-    "artist": "Messa",
-    "track": "Void Meridian",
-    "album": "The Spin",
-    "timestamp": "2026-05-05T01:50:05Z",
-    "url": "https://www.last.fm/music/Messa/_/Void+Meridian"
-  },
-  {
-    "artist": "Pelican",
-    "track": "The Cliff (Vocal Version)",
-    "album": "The Cliff",
-    "timestamp": "2026-05-05T01:44:51Z",
-    "url": "https://www.last.fm/music/Pelican/_/The+Cliff+(Vocal+Version)"
-  },
-  {
-    "artist": "Converge",
-    "track": "Beyond Repair",
-    "album": "Love Is Not Enough",
-    "timestamp": "2026-05-05T01:41:45Z",
-    "url": "https://www.last.fm/music/Converge/_/Beyond+Repair"
-  },
-  {
-    "artist": "Mono",
-    "track": "The Hand That Holds the Truth",
-    "album": "Rays of Darkness",
-    "timestamp": "2026-05-05T01:36:41Z",
-    "url": "https://www.last.fm/music/Mono/_/The+Hand+That+Holds+the+Truth"
   }
 ]
