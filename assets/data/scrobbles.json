@@ -1,5 +1,12 @@
 [
   {
+    "artist": "W.A.S.P.",
+    "track": "Kill Fuck Die",
+    "album": "Kill Fuck Die",
+    "timestamp": "2026-05-13T08:36:13Z",
+    "url": "https://www.last.fm/music/W.A.S.P./_/Kill+Fuck+Die"
+  },
+  {
     "artist": "Pyogenesis",
     "track": "A Kingdom To Disappear (It's Too Late)",
     "album": "A Kingdom To Disappear",
@@ -131,12 +138,5 @@
     "album": "WASP",
     "timestamp": "2026-05-05T18:18:42Z",
     "url": "https://www.last.fm/music/W.A.S.P./_/Hellion"
-  },
-  {
-    "artist": "W.A.S.P.",
-    "track": "Sleeping (in the Fire)",
-    "album": "WASP",
-    "timestamp": "2026-05-05T18:15:07Z",
-    "url": "https://www.last.fm/music/W.A.S.P./_/Sleeping+(in+the+Fire)"
   }
 ]
