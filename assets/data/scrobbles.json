@@ -1,6 +1,13 @@
 [
   {
     "artist": "Haken",
+    "track": "The Architect",
+    "album": "Affinity",
+    "timestamp": "2026-05-23T23:09:09Z",
+    "url": "https://www.last.fm/music/Haken/_/The+Architect"
+  },
+  {
+    "artist": "Haken",
     "track": "Falling Back To Earth",
     "album": "The Mountain",
     "timestamp": "2026-05-23T02:07:17Z",
@@ -131,12 +138,5 @@
     "album": "Thelonious Monk Trio",
     "timestamp": "2026-05-22T11:25:45Z",
     "url": "https://www.last.fm/music/Thelonious+Monk/_/Blue+Monk"
-  },
-  {
-    "artist": "Alice Coltrane",
-    "track": "Blue Nile",
-    "album": "Translinear Light",
-    "timestamp": "2026-05-22T11:18:06Z",
-    "url": "https://www.last.fm/music/Alice+Coltrane/_/Blue+Nile"
   }
 ]
