@@ -3,6 +3,13 @@
     "artist": "Haken",
     "track": "The Architect",
     "album": "Affinity",
+    "timestamp": "2026-05-24T07:04:58Z",
+    "url": "https://www.last.fm/music/Haken/_/The+Architect"
+  },
+  {
+    "artist": "Haken",
+    "track": "The Architect",
+    "album": "Affinity",
     "timestamp": "2026-05-23T23:09:09Z",
     "url": "https://www.last.fm/music/Haken/_/The+Architect"
   },
@@ -131,12 +138,5 @@
     "album": "Change of the Century",
     "timestamp": "2026-05-22T11:32:30Z",
     "url": "https://www.last.fm/music/Ornette+Coleman/_/Una+Muy+Bonita"
-  },
-  {
-    "artist": "Thelonious Monk",
-    "track": "Blue Monk",
-    "album": "Thelonious Monk Trio",
-    "timestamp": "2026-05-22T11:25:45Z",
-    "url": "https://www.last.fm/music/Thelonious+Monk/_/Blue+Monk"
   }
 ]
