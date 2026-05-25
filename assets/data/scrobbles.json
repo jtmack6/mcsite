@@ -1,6 +1,20 @@
 [
   {
     "artist": "Haken",
+    "track": "Lapse",
+    "album": "Affinity",
+    "timestamp": "2026-05-25T11:10:59Z",
+    "url": "https://www.last.fm/music/Haken/_/Lapse"
+  },
+  {
+    "artist": "Haken",
+    "track": "1985",
+    "album": "Affinity",
+    "timestamp": "2026-05-25T11:03:24Z",
+    "url": "https://www.last.fm/music/Haken/_/1985"
+  },
+  {
+    "artist": "Haken",
     "track": "Bound by Gravity",
     "album": "Affinity",
     "timestamp": "2026-05-25T10:06:12Z",
@@ -124,19 +138,5 @@
     "album": "Visions",
     "timestamp": "2026-05-24T14:52:34Z",
     "url": "https://www.last.fm/music/Haken/_/Shapeshifter"
-  },
-  {
-    "artist": "Haken",
-    "track": "Portals",
-    "album": "Visions",
-    "timestamp": "2026-05-24T14:45:51Z",
-    "url": "https://www.last.fm/music/Haken/_/Portals"
-  },
-  {
-    "artist": "Haken",
-    "track": "The mind’s eye",
-    "album": "Visions",
-    "timestamp": "2026-05-24T14:41:15Z",
-    "url": "https://www.last.fm/music/Haken/_/The+mind%E2%80%99s+eye"
   }
 ]
