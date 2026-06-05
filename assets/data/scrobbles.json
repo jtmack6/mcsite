@@ -1,5 +1,75 @@
 [
   {
+    "artist": "Carpenter Brut",
+    "track": "The End Complete",
+    "album": "Leather Temple",
+    "timestamp": "2026-06-05T14:51:19Z",
+    "url": "https://www.last.fm/music/Carpenter+Brut/_/The+End+Complete"
+  },
+  {
+    "artist": "Carpenter Brut",
+    "track": "Speed or Perish",
+    "album": "Leather Temple",
+    "timestamp": "2026-06-05T14:46:02Z",
+    "url": "https://www.last.fm/music/Carpenter+Brut/_/Speed+or+Perish"
+  },
+  {
+    "artist": "Carpenter Brut",
+    "track": "The Misfits / The Rebels",
+    "album": "Leather Temple",
+    "timestamp": "2026-06-05T14:41:59Z",
+    "url": "https://www.last.fm/music/Carpenter+Brut/_/The+Misfits+%2F+The+Rebels"
+  },
+  {
+    "artist": "Carpenter Brut",
+    "track": "Iron Sanctuary",
+    "album": "Leather Temple",
+    "timestamp": "2026-06-05T14:38:37Z",
+    "url": "https://www.last.fm/music/Carpenter+Brut/_/Iron+Sanctuary"
+  },
+  {
+    "artist": "Carpenter Brut",
+    "track": "Neon Requiem",
+    "album": "Leather Temple",
+    "timestamp": "2026-06-05T14:34:58Z",
+    "url": "https://www.last.fm/music/Carpenter+Brut/_/Neon+Requiem"
+  },
+  {
+    "artist": "Carpenter Brut",
+    "track": "Start Your Engines",
+    "album": "Leather Temple",
+    "timestamp": "2026-06-05T14:31:20Z",
+    "url": "https://www.last.fm/music/Carpenter+Brut/_/Start+Your+Engines"
+  },
+  {
+    "artist": "Carpenter Brut",
+    "track": "She Rules the Ruins",
+    "album": "Leather Temple",
+    "timestamp": "2026-06-05T14:27:37Z",
+    "url": "https://www.last.fm/music/Carpenter+Brut/_/She+Rules+the+Ruins"
+  },
+  {
+    "artist": "Carpenter Brut",
+    "track": "Leather Temple",
+    "album": "Leather Temple",
+    "timestamp": "2026-06-05T14:24:01Z",
+    "url": "https://www.last.fm/music/Carpenter+Brut/_/Leather+Temple"
+  },
+  {
+    "artist": "Carpenter Brut",
+    "track": "Major Threat",
+    "album": "Leather Temple",
+    "timestamp": "2026-06-05T14:19:59Z",
+    "url": "https://www.last.fm/music/Carpenter+Brut/_/Major+Threat"
+  },
+  {
+    "artist": "Carpenter Brut",
+    "track": "Ouverture (Deus Ex Machina)",
+    "album": "Leather Temple",
+    "timestamp": "2026-06-05T14:16:34Z",
+    "url": "https://www.last.fm/music/Carpenter+Brut/_/Ouverture+(Deus+Ex+Machina)"
+  },
+  {
     "artist": "Neptunian Maximalism",
     "track": "At Dusk: Raag Marwa: Alaap",
     "album": "Le Sacre Du Soleil Invaincu",
@@ -68,75 +138,5 @@
     "album": "Old Gods",
     "timestamp": "2026-06-04T00:28:30Z",
     "url": "https://www.last.fm/music/Valley+of+the+Sun/_/Dim+Vision"
-  },
-  {
-    "artist": "Valley of the Sun",
-    "track": "Deep Light Burns",
-    "album": "The Sayings of the Seers",
-    "timestamp": "2026-06-04T00:25:20Z",
-    "url": "https://www.last.fm/music/Valley+of+the+Sun/_/Deep+Light+Burns"
-  },
-  {
-    "artist": "Valley of the Sun",
-    "track": "Aquarius",
-    "album": "The Sayings of the Seers",
-    "timestamp": "2026-06-04T00:20:10Z",
-    "url": "https://www.last.fm/music/Valley+of+the+Sun/_/Aquarius"
-  },
-  {
-    "artist": "Valley of the Sun",
-    "track": "All We Are",
-    "album": "Old Gods",
-    "timestamp": "2026-06-04T00:15:15Z",
-    "url": "https://www.last.fm/music/Valley+of+the+Sun/_/All+We+Are"
-  },
-  {
-    "artist": "Valley of the Sun",
-    "track": "Mariner's Tale",
-    "album": "The Sayings of the Seers",
-    "timestamp": "2026-06-04T00:11:01Z",
-    "url": "https://www.last.fm/music/Valley+of+the+Sun/_/Mariner%27s+Tale"
-  },
-  {
-    "artist": "Valley of the Sun",
-    "track": "Old Gods",
-    "album": "Old Gods",
-    "timestamp": "2026-06-04T00:05:05Z",
-    "url": "https://www.last.fm/music/Valley+of+the+Sun/_/Old+Gods"
-  },
-  {
-    "artist": "Valley of the Sun",
-    "track": "Riding the Dunes",
-    "album": "The Sayings of the Seers",
-    "timestamp": "2026-06-03T23:59:06Z",
-    "url": "https://www.last.fm/music/Valley+of+the+Sun/_/Riding+the+Dunes"
-  },
-  {
-    "artist": "Valley of the Sun",
-    "track": "Hearts Aflame",
-    "album": "The Sayings of the Seers",
-    "timestamp": "2026-06-03T23:53:11Z",
-    "url": "https://www.last.fm/music/Valley+of+the+Sun/_/Hearts+Aflame"
-  },
-  {
-    "artist": "Gozu",
-    "track": "Truth Weighs a Ton",
-    "album": "Gozu",
-    "timestamp": "2026-06-03T23:45:17Z",
-    "url": "https://www.last.fm/music/Gozu/_/Truth+Weighs+a+Ton"
-  },
-  {
-    "artist": "Gozu",
-    "track": "Northside",
-    "album": "Gozu",
-    "timestamp": "2026-06-03T23:40:50Z",
-    "url": "https://www.last.fm/music/Gozu/_/Northside"
-  },
-  {
-    "artist": "Gozu",
-    "track": "Meth Cowboy",
-    "album": "Gozu",
-    "timestamp": "2026-06-03T23:35:56Z",
-    "url": "https://www.last.fm/music/Gozu/_/Meth+Cowboy"
   }
 ]
