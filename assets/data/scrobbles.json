@@ -1,5 +1,19 @@
 [
   {
+    "artist": "Neptunian Maximalism",
+    "track": "At Dusk: Raag Marwa: Alaap",
+    "album": "Le Sacre Du Soleil Invaincu",
+    "timestamp": "2026-06-05T00:13:18Z",
+    "url": "https://www.last.fm/music/Neptunian+Maximalism/_/At+Dusk:+Raag+Marwa:+Alaap"
+  },
+  {
+    "artist": "Avatarium",
+    "track": "Girl With the Raven Mask",
+    "album": "The Girl With the Raven Mask",
+    "timestamp": "2026-06-04T20:50:22Z",
+    "url": "https://www.last.fm/music/Avatarium/_/Girl+With+the+Raven+Mask"
+  },
+  {
     "artist": "Avatarium",
     "track": "Moonhorse",
     "album": "Avatarium",
@@ -124,19 +138,5 @@
     "album": "Gozu",
     "timestamp": "2026-06-03T23:35:56Z",
     "url": "https://www.last.fm/music/Gozu/_/Meth+Cowboy"
-  },
-  {
-    "artist": "Borracho",
-    "track": "Fang",
-    "album": "Eternos - EP",
-    "timestamp": "2026-06-03T23:33:03Z",
-    "url": "https://www.last.fm/music/Borracho/_/Fang"
-  },
-  {
-    "artist": "Myrkur",
-    "track": "Ulvinde",
-    "album": "Mareridt (Deluxe Version)",
-    "timestamp": "2026-06-03T23:30:00Z",
-    "url": "https://www.last.fm/music/Myrkur/_/Ulvinde"
   }
 ]
