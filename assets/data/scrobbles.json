@@ -1,5 +1,12 @@
 [
   {
+    "artist": "Neil Young",
+    "track": "Vampire Blues",
+    "album": "On the Beach",
+    "timestamp": "2026-06-21T22:14:55Z",
+    "url": "https://www.last.fm/music/Neil+Young/_/Vampire+Blues"
+  },
+  {
     "artist": "Rainbow",
     "track": "Stargazer",
     "album": "Rising",
@@ -131,12 +138,5 @@
     "album": "Man-Child",
     "timestamp": "2026-06-21T01:45:15Z",
     "url": "https://www.last.fm/music/Herbie+Hancock/_/Hang+Up+Your+Hang+Ups"
-  },
-  {
-    "artist": "Ornette Coleman",
-    "track": "The Face of the Bass",
-    "album": "Change of the Century",
-    "timestamp": "2026-06-21T01:38:10Z",
-    "url": "https://www.last.fm/music/Ornette+Coleman/_/The+Face+of+the+Bass"
   }
 ]
