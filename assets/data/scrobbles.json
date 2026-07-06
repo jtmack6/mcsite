@@ -1,5 +1,68 @@
 [
   {
+    "artist": "Kenny Burrell",
+    "track": "A Streetcar Named Desire",
+    "album": "'Round Midnight",
+    "timestamp": "2026-07-06T15:33:12Z",
+    "url": "https://www.last.fm/music/Kenny+Burrell/_/A+Streetcar+Named+Desire"
+  },
+  {
+    "artist": "Dexter Gordon",
+    "track": "Steeplechase (Gene Norman's Just Jazz Concert)",
+    "album": "Duels",
+    "timestamp": "2026-07-06T15:19:28Z",
+    "url": "https://www.last.fm/music/Dexter+Gordon/_/Steeplechase+(Gene+Norman%27s+Just+Jazz+Concert)"
+  },
+  {
+    "artist": "Dexter Gordon",
+    "track": "The Chase (Gene Norman's Just Jazz Concert)",
+    "album": "Duels",
+    "timestamp": "2026-07-06T15:08:14Z",
+    "url": "https://www.last.fm/music/Dexter+Gordon/_/The+Chase+(Gene+Norman%27s+Just+Jazz+Concert)"
+  },
+  {
+    "artist": "Dexter Gordon",
+    "track": "Citizen's Bop (Dexter Gordon And His Orchestra)",
+    "album": "Duels",
+    "timestamp": "2026-07-06T15:02:46Z",
+    "url": "https://www.last.fm/music/Dexter+Gordon/_/Citizen%27s+Bop+(Dexter+Gordon+And+His+Orchestra)"
+  },
+  {
+    "artist": "Dexter Gordon",
+    "track": "The Rubaiyat (Dexter Gordon And His Orchestra)",
+    "album": "Duels",
+    "timestamp": "2026-07-06T14:59:44Z",
+    "url": "https://www.last.fm/music/Dexter+Gordon/_/The+Rubaiyat+(Dexter+Gordon+And+His+Orchestra)"
+  },
+  {
+    "artist": "Dexter Gordon",
+    "track": "Settin' The Pace (Dexter Gordon Quintet)",
+    "album": "Duels",
+    "timestamp": "2026-07-06T14:55:13Z",
+    "url": "https://www.last.fm/music/Dexter+Gordon/_/Settin%27+The+Pace+(Dexter+Gordon+Quintet)"
+  },
+  {
+    "artist": "Dexter Gordon",
+    "track": "The Hunt (Hollywood Jazz Concert)",
+    "album": "Duels",
+    "timestamp": "2026-07-06T14:37:58Z",
+    "url": "https://www.last.fm/music/Dexter+Gordon/_/The+Hunt+(Hollywood+Jazz+Concert)"
+  },
+  {
+    "artist": "Dexter Gordon",
+    "track": "Hornin' In (Dexter Gordon Quintet)",
+    "album": "Duels",
+    "timestamp": "2026-07-06T14:30:11Z",
+    "url": "https://www.last.fm/music/Dexter+Gordon/_/Hornin%27+In+(Dexter+Gordon+Quintet)"
+  },
+  {
+    "artist": "Dexter Gordon",
+    "track": "The Duel (Dexter Gordon Quintet)",
+    "album": "Duels",
+    "timestamp": "2026-07-06T14:23:42Z",
+    "url": "https://www.last.fm/music/Dexter+Gordon/_/The+Duel+(Dexter+Gordon+Quintet)"
+  },
+  {
     "artist": "No Doubt",
     "track": "It's My Life",
     "album": "The Singles 1992-2003",
@@ -75,68 +138,5 @@
     "album": "Collection Gold",
     "timestamp": "2026-07-05T10:05:49Z",
     "url": "https://www.last.fm/music/Peter+Tosh/_/Downpressor+Man"
-  },
-  {
-    "artist": "Burning Spear",
-    "track": "Farover",
-    "album": "Farover",
-    "timestamp": "2026-07-05T10:00:40Z",
-    "url": "https://www.last.fm/music/Burning+Spear/_/Farover"
-  },
-  {
-    "artist": "Burning Spear",
-    "track": "Door Peeper",
-    "album": "Sounds from the Burning Spear",
-    "timestamp": "2026-07-05T09:57:01Z",
-    "url": "https://www.last.fm/music/Burning+Spear/_/Door+Peeper"
-  },
-  {
-    "artist": "Burning Spear",
-    "track": "Marcus Children Suffer",
-    "album": "Social Living",
-    "timestamp": "2026-07-05T09:53:04Z",
-    "url": "https://www.last.fm/music/Burning+Spear/_/Marcus+Children+Suffer"
-  },
-  {
-    "artist": "Burning Spear",
-    "track": "Praise Him",
-    "album": "Jah Kingdom",
-    "timestamp": "2026-07-05T09:48:56Z",
-    "url": "https://www.last.fm/music/Burning+Spear/_/Praise+Him"
-  },
-  {
-    "artist": "Burning Spear",
-    "track": "No War",
-    "album": "The Original Burning Spear",
-    "timestamp": "2026-07-05T09:45:21Z",
-    "url": "https://www.last.fm/music/Burning+Spear/_/No+War"
-  },
-  {
-    "artist": "Burning Spear",
-    "track": "Fire Man",
-    "album": "The Fittest Of The Fittest",
-    "timestamp": "2026-07-05T09:41:54Z",
-    "url": "https://www.last.fm/music/Burning+Spear/_/Fire+Man"
-  },
-  {
-    "artist": "Burning Spear",
-    "track": "As It Is",
-    "album": "Calling Rastafari",
-    "timestamp": "2026-07-05T09:37:22Z",
-    "url": "https://www.last.fm/music/Burning+Spear/_/As+It+Is"
-  },
-  {
-    "artist": "Burning Spear",
-    "track": "Ha Ha",
-    "album": "FreeMan",
-    "timestamp": "2026-07-05T09:33:15Z",
-    "url": "https://www.last.fm/music/Burning+Spear/_/Ha+Ha"
-  },
-  {
-    "artist": "Burning Spear",
-    "track": "Columbus",
-    "album": "Hail H.I.M.",
-    "timestamp": "2026-07-05T09:29:33Z",
-    "url": "https://www.last.fm/music/Burning+Spear/_/Columbus"
   }
 ]
