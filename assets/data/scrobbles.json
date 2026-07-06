@@ -1,5 +1,12 @@
 [
   {
+    "artist": "No Doubt",
+    "track": "It's My Life",
+    "album": "The Singles 1992-2003",
+    "timestamp": "2026-07-06T07:48:27Z",
+    "url": "https://www.last.fm/music/No+Doubt/_/It%27s+My+Life"
+  },
+  {
     "artist": "Burning Spear",
     "track": "Walking (version)",
     "album": "Spear Burning",
@@ -131,12 +138,5 @@
     "album": "Hail H.I.M.",
     "timestamp": "2026-07-05T09:29:33Z",
     "url": "https://www.last.fm/music/Burning+Spear/_/Columbus"
-  },
-  {
-    "artist": "Burning Spear",
-    "track": "Africa",
-    "album": "Rasta Business",
-    "timestamp": "2026-07-05T09:25:42Z",
-    "url": "https://www.last.fm/music/Burning+Spear/_/Africa"
   }
 ]
