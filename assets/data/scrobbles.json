@@ -1,5 +1,12 @@
 [
   {
+    "artist": "Bill Frisell",
+    "track": "Doom",
+    "album": "Orchestras",
+    "timestamp": "2026-07-18T16:02:19Z",
+    "url": "https://www.last.fm/music/Bill+Frisell/_/Doom"
+  },
+  {
     "artist": "Bill Frisell, Gregory Tardy, Johnathan Blake \u0026 Gerald Clayton",
     "track": "Claude Utley",
     "album": "Four",
@@ -131,12 +138,5 @@
     "album": "American Recordings",
     "timestamp": "2026-07-15T15:32:28Z",
     "url": "https://www.last.fm/music/Johnny+Cash/_/Delia%E2%80%99s+Gone"
-  },
-  {
-    "artist": "Johnny Cash",
-    "track": "Spiritual",
-    "album": "American II: Unchained",
-    "timestamp": "2026-07-15T15:31:11Z",
-    "url": "https://www.last.fm/music/Johnny+Cash/_/Spiritual"
   }
 ]
