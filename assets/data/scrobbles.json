@@ -1,6 +1,13 @@
 [
   {
     "artist": "Herb Alpert",
+    "track": "Medley: Joy To The World / Silver Bells",
+    "album": "The Christmas Wish",
+    "timestamp": "2026-07-20T03:29:15Z",
+    "url": "https://www.last.fm/music/Herb+Alpert/_/Medley:+Joy+To+The+World+%2F+Silver+Bells"
+  },
+  {
+    "artist": "Herb Alpert",
     "track": "Medley: Let It Snow / Rudolph The Red Nosed Reindeer",
     "album": "The Christmas Wish",
     "timestamp": "2026-07-20T03:25:52Z",
@@ -131,12 +138,5 @@
     "album": "American IV: The Man Comes Around",
     "timestamp": "2026-07-17T05:55:13Z",
     "url": "https://www.last.fm/music/Johnny+Cash/_/The+Man+Comes+Around"
-  },
-  {
-    "artist": "Johnny Cash",
-    "track": "One",
-    "album": "American III: Solitary Man",
-    "timestamp": "2026-07-17T05:48:52Z",
-    "url": "https://www.last.fm/music/Johnny+Cash/_/One"
   }
 ]
