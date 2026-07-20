@@ -1,6 +1,13 @@
 [
   {
     "artist": "Herb Alpert",
+    "track": "Rise",
+    "album": "Rise",
+    "timestamp": "2026-07-20T19:39:36Z",
+    "url": "https://www.last.fm/music/Herb+Alpert/_/Rise"
+  },
+  {
+    "artist": "Herb Alpert",
     "track": "Medley: Joy To The World / Silver Bells",
     "album": "The Christmas Wish",
     "timestamp": "2026-07-20T03:29:15Z",
@@ -131,12 +138,5 @@
     "album": "American Recordings",
     "timestamp": "2026-07-17T06:10:07Z",
     "url": "https://www.last.fm/music/Johnny+Cash/_/Bird+On+A+Wire"
-  },
-  {
-    "artist": "Johnny Cash",
-    "track": "The Man Comes Around",
-    "album": "American IV: The Man Comes Around",
-    "timestamp": "2026-07-17T05:55:13Z",
-    "url": "https://www.last.fm/music/Johnny+Cash/_/The+Man+Comes+Around"
   }
 ]
