@@ -1,5 +1,33 @@
 [
   {
+    "artist": "Kanye West feat. Jay‐Z, Pusha T, CyHi da Prynce, Swizz Beatz \u0026 The RZA",
+    "track": "So Appalled",
+    "album": "My Beautiful Dark Twisted Fantasy",
+    "timestamp": "2026-07-28T09:22:25Z",
+    "url": "https://www.last.fm/music/Kanye+West+feat.+Jay%E2%80%90Z,+Pusha+T,+CyHi+da+Prynce,+Swizz+Beatz+\u0026+The+RZA/_/So+Appalled"
+  },
+  {
+    "artist": "Kanye West",
+    "track": "All of the Lights",
+    "album": "My Beautiful Dark Twisted Fantasy",
+    "timestamp": "2026-07-28T09:15:59Z",
+    "url": "https://www.last.fm/music/Kanye+West/_/All+of+the+Lights"
+  },
+  {
+    "artist": "Kanye West",
+    "track": "All of the Lights (Interlude)",
+    "album": "My Beautiful Dark Twisted Fantasy",
+    "timestamp": "2026-07-28T09:13:09Z",
+    "url": "https://www.last.fm/music/Kanye+West/_/All+of+the+Lights+(Interlude)"
+  },
+  {
+    "artist": "Kanye West",
+    "track": "POWER",
+    "album": "My Beautiful Dark Twisted Fantasy",
+    "timestamp": "2026-07-28T09:10:10Z",
+    "url": "https://www.last.fm/music/Kanye+West/_/POWER"
+  },
+  {
     "artist": "Kanye West feat. Jay‐Z, Rick Ross, Nicki Minaj \u0026 Bon Iver",
     "track": "Monster",
     "album": "My Beautiful Dark Twisted Fantasy",
@@ -110,33 +138,5 @@
     "album": "East of the River Nile",
     "timestamp": "2026-07-27T22:44:34Z",
     "url": "https://www.last.fm/music/Augustus+Pablo/_/Unfinished+Melody"
-  },
-  {
-    "artist": "Augustus Pablo",
-    "track": "Upfull Living",
-    "album": "East of the River Nile",
-    "timestamp": "2026-07-27T22:40:59Z",
-    "url": "https://www.last.fm/music/Augustus+Pablo/_/Upfull+Living"
-  },
-  {
-    "artist": "Augustus Pablo",
-    "track": "Nature Dub",
-    "album": "East of the River Nile",
-    "timestamp": "2026-07-27T22:36:39Z",
-    "url": "https://www.last.fm/music/Augustus+Pablo/_/Nature+Dub"
-  },
-  {
-    "artist": "Augustus Pablo",
-    "track": "Natural Way",
-    "album": "East of the River Nile",
-    "timestamp": "2026-07-27T22:32:49Z",
-    "url": "https://www.last.fm/music/Augustus+Pablo/_/Natural+Way"
-  },
-  {
-    "artist": "Augustus Pablo",
-    "track": "Chant to King Selassie I",
-    "album": "East of the River Nile",
-    "timestamp": "2026-07-27T22:29:23Z",
-    "url": "https://www.last.fm/music/Augustus+Pablo/_/Chant+to+King+Selassie+I"
   }
 ]
