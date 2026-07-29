@@ -1,5 +1,12 @@
 [
   {
+    "artist": "Fugazi",
+    "track": "Closed Captioned",
+    "album": "End Hits",
+    "timestamp": "2026-07-29T11:07:23Z",
+    "url": "https://www.last.fm/music/Fugazi/_/Closed+Captioned"
+  },
+  {
     "artist": "Botanist",
     "track": "Alluvial",
     "album": "Ecosystem",
@@ -131,12 +138,5 @@
     "album": "My Beautiful Dark Twisted Fantasy",
     "timestamp": "2026-07-28T09:15:59Z",
     "url": "https://www.last.fm/music/Kanye+West/_/All+of+the+Lights"
-  },
-  {
-    "artist": "Kanye West",
-    "track": "All of the Lights (Interlude)",
-    "album": "My Beautiful Dark Twisted Fantasy",
-    "timestamp": "2026-07-28T09:13:09Z",
-    "url": "https://www.last.fm/music/Kanye+West/_/All+of+the+Lights+(Interlude)"
   }
 ]
