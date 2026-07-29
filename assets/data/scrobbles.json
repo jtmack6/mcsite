@@ -1,5 +1,33 @@
 [
   {
+    "artist": "Sun Ra",
+    "track": "The Schimmel Impromptu",
+    "album": "Kingdom of Discipline",
+    "timestamp": "2026-07-29T18:47:20Z",
+    "url": "https://www.last.fm/music/Sun+Ra/_/The+Schimmel+Impromptu"
+  },
+  {
+    "artist": "Bill Frisell",
+    "track": "Lush life",
+    "album": "Orchestras",
+    "timestamp": "2026-07-29T18:42:40Z",
+    "url": "https://www.last.fm/music/Bill+Frisell/_/Lush+life"
+  },
+  {
+    "artist": "Siouxsie and the Banshees",
+    "track": "Cities in Dust",
+    "album": "Tinderbox (Remastered \u0026 Expanded)",
+    "timestamp": "2026-07-29T15:34:13Z",
+    "url": "https://www.last.fm/music/Siouxsie+and+the+Banshees/_/Cities+in+Dust"
+  },
+  {
+    "artist": "The Cure",
+    "track": "A Forest",
+    "album": "Seventeen Seconds (Deluxe Edition)",
+    "timestamp": "2026-07-29T15:29:41Z",
+    "url": "https://www.last.fm/music/The+Cure/_/A+Forest"
+  },
+  {
     "artist": "Fugazi",
     "track": "Closed Captioned",
     "album": "End Hits",
@@ -110,33 +138,5 @@
     "album": "Dubbing in the BackYard",
     "timestamp": "2026-07-29T01:16:29Z",
     "url": "https://www.last.fm/music/King+Tubby+\u0026+The+Aggrovators/_/Relaxing+Mood"
-  },
-  {
-    "artist": "Kanye West",
-    "track": "All of the Lights (Interlude)",
-    "album": "My Beautiful Dark Twisted Fantasy",
-    "timestamp": "2026-07-28T20:21:49Z",
-    "url": "https://www.last.fm/music/Kanye+West/_/All+of+the+Lights+(Interlude)"
-  },
-  {
-    "artist": "Kanye West",
-    "track": "POWER",
-    "album": "My Beautiful Dark Twisted Fantasy",
-    "timestamp": "2026-07-28T20:18:44Z",
-    "url": "https://www.last.fm/music/Kanye+West/_/POWER"
-  },
-  {
-    "artist": "Kanye West feat. Jay‐Z, Pusha T, CyHi da Prynce, Swizz Beatz \u0026 The RZA",
-    "track": "So Appalled",
-    "album": "My Beautiful Dark Twisted Fantasy",
-    "timestamp": "2026-07-28T09:22:25Z",
-    "url": "https://www.last.fm/music/Kanye+West+feat.+Jay%E2%80%90Z,+Pusha+T,+CyHi+da+Prynce,+Swizz+Beatz+\u0026+The+RZA/_/So+Appalled"
-  },
-  {
-    "artist": "Kanye West",
-    "track": "All of the Lights",
-    "album": "My Beautiful Dark Twisted Fantasy",
-    "timestamp": "2026-07-28T09:15:59Z",
-    "url": "https://www.last.fm/music/Kanye+West/_/All+of+the+Lights"
   }
 ]
