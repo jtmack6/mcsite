@@ -1,5 +1,33 @@
 [
   {
+    "artist": "Zeal \u0026 Ardor",
+    "track": "Come On Down (2026 Master)",
+    "album": "Devil Is Fine X",
+    "timestamp": "2026-08-15T00:27:26Z",
+    "url": "https://www.last.fm/music/Zeal+\u0026+Ardor/_/Come+On+Down+(2026+Master)"
+  },
+  {
+    "artist": "Zeal \u0026 Ardor",
+    "track": "Sacrilegium I (2026 Master)",
+    "album": "Devil Is Fine X",
+    "timestamp": "2026-08-15T00:24:40Z",
+    "url": "https://www.last.fm/music/Zeal+\u0026+Ardor/_/Sacrilegium+I+(2026+Master)"
+  },
+  {
+    "artist": "Zeal \u0026 Ardor",
+    "track": "In Ashes (2026 Master)",
+    "album": "Devil Is Fine X",
+    "timestamp": "2026-08-15T00:22:32Z",
+    "url": "https://www.last.fm/music/Zeal+\u0026+Ardor/_/In+Ashes+(2026+Master)"
+  },
+  {
+    "artist": "Zeal \u0026 Ardor",
+    "track": "Devil Is Fine (2026 Master)",
+    "album": "Devil Is Fine X",
+    "timestamp": "2026-08-15T00:19:36Z",
+    "url": "https://www.last.fm/music/Zeal+\u0026+Ardor/_/Devil+Is+Fine+(2026+Master)"
+  },
+  {
     "artist": "Siouxsie and the Banshees",
     "track": "Spellbound",
     "album": "All Souls",
@@ -110,33 +138,5 @@
     "album": "Sunset Beach: The Best of the Sentinals",
     "timestamp": "2026-08-10T02:48:54Z",
     "url": "https://www.last.fm/music/The+Sentinals/_/Pismo+Beach"
-  },
-  {
-    "artist": "The Sentinals",
-    "track": "Revellion",
-    "album": "Sunset Beach: The Best of the Sentinals",
-    "timestamp": "2026-08-10T02:47:40Z",
-    "url": "https://www.last.fm/music/The+Sentinals/_/Revellion"
-  },
-  {
-    "artist": "The Sentinals",
-    "track": "Tough Soul",
-    "album": "Sunset Beach: The Best of the Sentinals",
-    "timestamp": "2026-08-10T02:44:28Z",
-    "url": "https://www.last.fm/music/The+Sentinals/_/Tough+Soul"
-  },
-  {
-    "artist": "The Sentinals",
-    "track": "Latin'ia",
-    "album": "Sunset Beach: The Best of the Sentinals",
-    "timestamp": "2026-08-10T02:41:55Z",
-    "url": "https://www.last.fm/music/The+Sentinals/_/Latin%27ia"
-  },
-  {
-    "artist": "The Sentinals",
-    "track": "Exotic",
-    "album": "Sunset Beach: The Best of the Sentinals",
-    "timestamp": "2026-08-10T02:39:50Z",
-    "url": "https://www.last.fm/music/The+Sentinals/_/Exotic"
   }
 ]
