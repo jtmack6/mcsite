@@ -1,6 +1,13 @@
 [
   {
     "artist": "Wo Fat",
+    "track": "The Conjuring",
+    "album": "The Conjuring",
+    "timestamp": "2026-08-16T07:45:29Z",
+    "url": "https://www.last.fm/music/Wo+Fat/_/The+Conjuring"
+  },
+  {
+    "artist": "Wo Fat",
     "track": "Pale Rider from the Ice",
     "album": "The Conjuring",
     "timestamp": "2026-08-16T05:18:54Z",
@@ -131,12 +138,5 @@
     "album": "Original Rockers",
     "timestamp": "2026-08-13T08:18:06Z",
     "url": "https://www.last.fm/music/Augustus+Pablo/_/Rockers+Dub"
-  },
-  {
-    "artist": "The Rip Chords",
-    "track": "Surfin' Craze",
-    "album": "Three Window Coupe",
-    "timestamp": "2026-08-10T03:17:24Z",
-    "url": "https://www.last.fm/music/The+Rip+Chords/_/Surfin%27+Craze"
   }
 ]
