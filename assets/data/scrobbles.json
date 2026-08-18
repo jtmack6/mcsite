@@ -1,5 +1,26 @@
 [
   {
+    "artist": "My Dying Bride",
+    "track": "And My Father Left Forever",
+    "album": "Feel the Misery",
+    "timestamp": "2026-08-17T22:13:15Z",
+    "url": "https://www.last.fm/music/My+Dying+Bride/_/And+My+Father+Left+Forever"
+  },
+  {
+    "artist": "My Dying Bride",
+    "track": "The Raven and the Rose",
+    "album": "The Dreadful Hours",
+    "timestamp": "2026-08-17T22:04:12Z",
+    "url": "https://www.last.fm/music/My+Dying+Bride/_/The+Raven+and+the+Rose"
+  },
+  {
+    "artist": "My Dying Bride",
+    "track": "The Dreadful Hours",
+    "album": "The Dreadful Hours",
+    "timestamp": "2026-08-17T21:53:56Z",
+    "url": "https://www.last.fm/music/My+Dying+Bride/_/The+Dreadful+Hours"
+  },
+  {
     "artist": "Wo Fat",
     "track": "The Conjuring",
     "album": "The Conjuring",
@@ -117,26 +138,5 @@
     "album": "Onward",
     "timestamp": "2026-08-15T23:16:37Z",
     "url": "https://www.last.fm/music/Lammoth/_/To+Be+Free+(Bill)"
-  },
-  {
-    "artist": "Lammoth",
-    "track": "Poor Old Half-Starved Pony",
-    "album": "Onward",
-    "timestamp": "2026-08-15T22:47:24Z",
-    "url": "https://www.last.fm/music/Lammoth/_/Poor+Old+Half-Starved+Pony"
-  },
-  {
-    "artist": "Zeal \u0026 Ardor",
-    "track": "Come On Down (2026 Master)",
-    "album": "Devil Is Fine X",
-    "timestamp": "2026-08-15T00:27:26Z",
-    "url": "https://www.last.fm/music/Zeal+\u0026+Ardor/_/Come+On+Down+(2026+Master)"
-  },
-  {
-    "artist": "Zeal \u0026 Ardor",
-    "track": "Sacrilegium I (2026 Master)",
-    "album": "Devil Is Fine X",
-    "timestamp": "2026-08-15T00:24:40Z",
-    "url": "https://www.last.fm/music/Zeal+\u0026+Ardor/_/Sacrilegium+I+(2026+Master)"
   }
 ]
