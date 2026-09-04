@@ -1,5 +1,40 @@
 [
   {
+    "artist": "Magma",
+    "track": "I must return",
+    "album": "Merci",
+    "timestamp": "2026-09-04T17:33:38Z",
+    "url": "https://www.last.fm/music/Magma/_/I+must+return"
+  },
+  {
+    "artist": "Magma",
+    "track": "Otis (ending)",
+    "album": "Merci",
+    "timestamp": "2026-09-04T17:29:20Z",
+    "url": "https://www.last.fm/music/Magma/_/Otis+(ending)"
+  },
+  {
+    "artist": "Magma",
+    "track": "Do the music",
+    "album": "Merci",
+    "timestamp": "2026-09-04T17:26:16Z",
+    "url": "https://www.last.fm/music/Magma/_/Do+the+music"
+  },
+  {
+    "artist": "Magma",
+    "track": "Otis",
+    "album": "Merci",
+    "timestamp": "2026-09-04T17:21:27Z",
+    "url": "https://www.last.fm/music/Magma/_/Otis"
+  },
+  {
+    "artist": "Magma",
+    "track": "Call From The Dark (Ooh Baby)",
+    "album": "Merci",
+    "timestamp": "2026-09-04T17:14:59Z",
+    "url": "https://www.last.fm/music/Magma/_/Call+From+The+Dark+(Ooh+Baby)"
+  },
+  {
     "artist": "Augustus Pablo",
     "track": "Rocking Warrior",
     "album": "Great Reggae Musicians",
@@ -103,40 +138,5 @@
     "album": "Wagner: Meistersinger; Lohengrin; Parsifal; Tristan und Isolde",
     "timestamp": "2026-09-04T03:36:37Z",
     "url": "https://www.last.fm/music/The+Philadelphia+Orchestra+\u0026+Christian+Thielemann/_/Die+Meistersinger+von+N%C3%BCrnberg:+Overture"
-  },
-  {
-    "artist": "Josef Greindl, RIAS Symphonie-Orchester \u0026 Ferenc Fricsay",
-    "track": "Der fliegende Holländer: Wie? Hört ich recht? Meine Tochter sein Weib?",
-    "album": "Der Fliegende Holländer",
-    "timestamp": "2026-09-04T03:33:15Z",
-    "url": "https://www.last.fm/music/Josef+Greindl,+RIAS+Symphonie-Orchester+\u0026+Ferenc+Fricsay/_/Der+fliegende+Holl%C3%A4nder:+Wie%3F+H%C3%B6rt+ich+recht%3F+Meine+Tochter+sein+Weib%3F"
-  },
-  {
-    "artist": "Das Orchester der Bayreuther Festspiele, Joseph Keilberth, Ira Malanium, Josef Greindl, Werner Faulhaber, Werner Uhde \u0026 Wolfgang Windgassen",
-    "track": "Das Rheingold: Endlich Loge! (Das Rheingold Teil 1-Erster und Einziger Aufzug)",
-    "album": "Richard Wagner: Das Rheingold - Gesamtaufnahme / Complete Recording (Bayreuth Festspiele, Vorabend zum Bühnenfestspiel Der Ring des Nibelungen)",
-    "timestamp": "2026-09-04T03:29:47Z",
-    "url": "https://www.last.fm/music/Das+Orchester+der+Bayreuther+Festspiele,+Joseph+Keilberth,+Ira+Malanium,+Josef+Greindl,+Werner+Faulhaber,+Werner+Uhde+\u0026+Wolfgang+Windgassen/_/Das+Rheingold:+Endlich+Loge!+(Das+Rheingold+Teil+1-Erster+und+Einziger+Aufzug)"
-  },
-  {
-    "artist": "Otto Gerdes, Orchester der Deutschen Oper Berlin, Birgit Nilsson \u0026 Dietrich Fischer-Dieskau",
-    "track": "Tannhäuser: \"Allmächt'ge Jungfrau, Hör Mein Flehen!\"",
-    "album": "Wagner: Tannhäuser",
-    "timestamp": "2026-09-04T03:20:31Z",
-    "url": "https://www.last.fm/music/Otto+Gerdes,+Orchester+der+Deutschen+Oper+Berlin,+Birgit+Nilsson+\u0026+Dietrich+Fischer-Dieskau/_/Tannh%C3%A4user:+%22Allm%C3%A4cht%27ge+Jungfrau,+H%C3%B6r+Mein+Flehen!%22"
-  },
-  {
-    "artist": "Thomas Stewart, Herbert von Karajan \u0026 Berlin Philharmonic",
-    "track": "Die Walkure: Der Augen leuchtendes Paar",
-    "album": "Wagner: The Ring of the Nibelung (Highlights) [with Herbert von Karajan]",
-    "timestamp": "2026-09-04T03:13:40Z",
-    "url": "https://www.last.fm/music/Thomas+Stewart,+Herbert+von+Karajan+\u0026+Berlin+Philharmonic/_/Die+Walkure:+Der+Augen+leuchtendes+Paar"
-  },
-  {
-    "artist": "Kwangchul Youn, Michelle Breedt, Ralf Lukas, Clemens Bieber, Arnold Bezuyen, Christian Thielemann, Bayreuth Festival Orchestra, Hans-Peter Konig, Andrew Shore, Gerhard Siegel, Christa Mayer, Albert Dohmen, Edith Haller, Fionnuala McCarthy, Ulrike Helzel \u0026",
-    "track": "Das Rheingold : Scene 4: Weiche, Wotan! Weiche! (Erda, Wotan, Fricka, Froh)",
-    "album": "Wagner, R.: Das Rheingold",
-    "timestamp": "2026-09-04T03:08:43Z",
-    "url": "https://www.last.fm/music/Kwangchul+Youn,+Michelle+Breedt,+Ralf+Lukas,+Clemens+Bieber,+Arnold+Bezuyen,+Christian+Thielemann,+Bayreuth+Festival+Orchestra,+Hans-Peter+Konig,+Andrew+Shore,+Gerhard+Siegel,+Christa+Mayer,+Albert+Dohmen,+Edith+Haller,+Fionnuala+McCarthy,+Ulrike+Helzel+\u0026/_/Das+Rheingold+:+Scene+4:+Weiche,+Wotan!+Weiche!+(Erda,+Wotan,+Fricka,+Froh)"
   }
 ]
