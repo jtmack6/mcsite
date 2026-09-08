@@ -1,5 +1,12 @@
 [
   {
+    "artist": "Airbourne",
+    "track": "GUTSY",
+    "album": "Airbourne",
+    "timestamp": "2026-09-08T16:02:53Z",
+    "url": "https://www.last.fm/music/Airbourne/_/GUTSY"
+  },
+  {
     "artist": "Type O Negative",
     "track": "Cinnamon Girl",
     "album": "October Rust",
@@ -131,12 +138,5 @@
     "album": "The Expanse",
     "timestamp": "2026-09-07T09:07:24Z",
     "url": "https://www.last.fm/music/Skuggor/_/The+Nothing"
-  },
-  {
-    "artist": "Sigh",
-    "track": "Unputenpu",
-    "album": "Goh-Ka",
-    "timestamp": "2026-09-07T09:01:45Z",
-    "url": "https://www.last.fm/music/Sigh/_/Unputenpu"
   }
 ]
