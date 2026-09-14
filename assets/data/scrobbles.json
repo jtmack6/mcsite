@@ -1,5 +1,12 @@
 [
   {
+    "artist": "Violet Grohl",
+    "track": "THUM",
+    "album": "Be Sweet To Me",
+    "timestamp": "2026-09-14T17:00:13Z",
+    "url": "https://www.last.fm/music/Violet+Grohl/_/THUM"
+  },
+  {
     "artist": "Kurt Vile",
     "track": "Yeah Bones",
     "album": "Bottle It In",
@@ -131,12 +138,5 @@
     "album": "Abrabo",
     "timestamp": "2026-09-14T00:22:25Z",
     "url": "https://www.last.fm/music/Alhaji+K.+Frimpong/_/Abrabo"
-  },
-  {
-    "artist": "R.E.M.",
-    "track": "Half a World Away",
-    "album": "Out of Time",
-    "timestamp": "2026-09-13T19:16:39Z",
-    "url": "https://www.last.fm/music/R.E.M./_/Half+a+World+Away"
   }
 ]
