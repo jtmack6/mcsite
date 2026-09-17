@@ -1,5 +1,19 @@
 [
   {
+    "artist": "Black Sabbath",
+    "track": "Symptom of the Universe",
+    "album": "Sabotage",
+    "timestamp": "2026-09-17T19:56:47Z",
+    "url": "https://www.last.fm/music/Black+Sabbath/_/Symptom+of+the+Universe"
+  },
+  {
+    "artist": "Black Sabbath",
+    "track": "Hole in the Sky",
+    "album": "Sabotage",
+    "timestamp": "2026-09-17T19:54:06Z",
+    "url": "https://www.last.fm/music/Black+Sabbath/_/Hole+in+the+Sky"
+  },
+  {
     "artist": "Morgoth",
     "track": "Resistance (Live)",
     "album": "Odium",
@@ -124,19 +138,5 @@
     "album": "Musique de France",
     "timestamp": "2026-09-16T07:50:06Z",
     "url": "https://www.last.fm/music/Acid+Arab/_/La+Hafla+(feat.+Sofiane+Saidi)"
-  },
-  {
-    "artist": "Acid Arab",
-    "track": "Buzq Blues",
-    "album": "Musique de France",
-    "timestamp": "2026-09-16T07:45:47Z",
-    "url": "https://www.last.fm/music/Acid+Arab/_/Buzq+Blues"
-  },
-  {
-    "artist": "Echo \u0026 the Bunnymen",
-    "track": "The Light That Surrounds You",
-    "album": "Apples For Isaac",
-    "timestamp": "2026-09-16T00:48:38Z",
-    "url": "https://www.last.fm/music/Echo+\u0026+the+Bunnymen/_/The+Light+That+Surrounds+You"
   }
 ]
