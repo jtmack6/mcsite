@@ -1,5 +1,12 @@
 [
   {
+    "artist": "David Bowie",
+    "track": "Moonage Daydream (2012 Remaster)",
+    "album": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)",
+    "timestamp": "2026-09-28T23:20:57Z",
+    "url": "https://www.last.fm/music/David+Bowie/_/Moonage+Daydream+(2012+Remaster)"
+  },
+  {
     "artist": "Elvin Bishop",
     "track": "Fooled Around And Fell In Love",
     "album": "20th Century Masters - The Millennium Collection: The Best of Elvin Bishop",
@@ -131,12 +138,5 @@
     "album": "Absolute Elsewhere",
     "timestamp": "2026-09-28T19:20:28Z",
     "url": "https://www.last.fm/music/Blood+Incantation/_/The+Stargate+%5BTablet+III%5D"
-  },
-  {
-    "artist": "Blood Incantation",
-    "track": "The Stargate [Tablet II] [feat. Tangerine Dream]",
-    "album": "Absolute Elsewhere",
-    "timestamp": "2026-09-28T19:15:20Z",
-    "url": "https://www.last.fm/music/Blood+Incantation/_/The+Stargate+%5BTablet+II%5D+%5Bfeat.+Tangerine+Dream%5D"
   }
 ]
