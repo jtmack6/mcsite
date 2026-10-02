@@ -1,5 +1,12 @@
 [
   {
+    "artist": "Greta Van Fleet",
+    "track": "Tear It Down",
+    "album": "Palace for the People",
+    "timestamp": "2026-10-01T23:59:35Z",
+    "url": "https://www.last.fm/music/Greta+Van+Fleet/_/Tear+It+Down"
+  },
+  {
     "artist": "Mogwai",
     "track": "Underground (feat. Iggy Pop)",
     "album": "Underground (feat. Iggy Pop) - Single",
@@ -131,12 +138,5 @@
     "album": "Palace for the People",
     "timestamp": "2026-10-01T01:26:51Z",
     "url": "https://www.last.fm/music/Greta+Van+Fleet/_/Tear+It+Down"
-  },
-  {
-    "artist": "Nephila",
-    "track": "Ash Their Bones",
-    "album": "HULDRA",
-    "timestamp": "2026-10-01T01:10:31Z",
-    "url": "https://www.last.fm/music/Nephila/_/Ash+Their+Bones"
   }
 ]
