@@ -1,5 +1,12 @@
 [
   {
+    "artist": "Haken",
+    "track": "Prosthetic",
+    "album": "Virus (Deluxe Edition)",
+    "timestamp": "2026-10-03T11:11:11Z",
+    "url": "https://www.last.fm/music/Haken/_/Prosthetic"
+  },
+  {
     "artist": "Greta Van Fleet",
     "track": "Tear It Down",
     "album": "Palace for the People",
@@ -131,12 +138,5 @@
     "album": "Who Loves The Sun",
     "timestamp": "2026-10-01T01:57:51Z",
     "url": "https://www.last.fm/music/Chat+Pile/_/Creature"
-  },
-  {
-    "artist": "Greta Van Fleet",
-    "track": "Tear It Down",
-    "album": "Palace for the People",
-    "timestamp": "2026-10-01T01:26:51Z",
-    "url": "https://www.last.fm/music/Greta+Van+Fleet/_/Tear+It+Down"
   }
 ]
