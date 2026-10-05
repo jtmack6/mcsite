@@ -1,5 +1,26 @@
 [
   {
+    "artist": "Wyld Stallyns",
+    "track": "Face The Music (feat. Animals As Leaders \u0026 Christian Scott aTunde Adjuah) [From The \"Bill \u0026 Ted Face The Music\" Soundtrack]",
+    "album": "Bill \u0026 Ted Face The Music (Original Motion Picture Soundtrack)",
+    "timestamp": "2026-10-05T13:16:14Z",
+    "url": "https://www.last.fm/music/Wyld+Stallyns/_/Face+The+Music+(feat.+Animals+As+Leaders+\u0026+Christian+Scott+aTunde+Adjuah)+%5BFrom+The+%22Bill+\u0026+Ted+Face+The+Music%22+Soundtrack%5D"
+  },
+  {
+    "artist": "Animals as Leaders",
+    "track": "Micro-Aggressions",
+    "album": "Parrhesia",
+    "timestamp": "2026-10-05T13:15:11Z",
+    "url": "https://www.last.fm/music/Animals+as+Leaders/_/Micro-Aggressions"
+  },
+  {
+    "artist": "Nine Inch Nails",
+    "track": "All the Love in the World",
+    "album": "With Teeth",
+    "timestamp": "2026-10-05T08:56:02Z",
+    "url": "https://www.last.fm/music/Nine+Inch+Nails/_/All+the+Love+in+the+World"
+  },
+  {
     "artist": "Burning Spear",
     "track": "Farover Distance (Version) [Remastered]",
     "album": "Farover (Remastered)",
@@ -117,26 +138,5 @@
     "album": "Creature Feature",
     "timestamp": "2026-10-04T14:18:32Z",
     "url": "https://www.last.fm/music/Satan%27s+Pilgrims/_/Ghoulash"
-  },
-  {
-    "artist": "The Ronettes",
-    "track": "Chapel Of Love",
-    "album": "Presenting the Fabulous Ronettes Featuring Veronica",
-    "timestamp": "2026-10-04T04:54:34Z",
-    "url": "https://www.last.fm/music/The+Ronettes/_/Chapel+Of+Love"
-  },
-  {
-    "artist": "Prince Jammy",
-    "track": "The Great Red Spot",
-    "album": "Destroys The Invaders",
-    "timestamp": "2026-10-03T23:32:44Z",
-    "url": "https://www.last.fm/music/Prince+Jammy/_/The+Great+Red+Spot"
-  },
-  {
-    "artist": "Prince Jammy",
-    "track": "War In The Asteroid Belt",
-    "album": "Destroys The Invaders",
-    "timestamp": "2026-10-03T23:28:09Z",
-    "url": "https://www.last.fm/music/Prince+Jammy/_/War+In+The+Asteroid+Belt"
   }
 ]
