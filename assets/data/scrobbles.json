@@ -1,5 +1,12 @@
 [
   {
+    "artist": "Katatonia",
+    "track": "Rainroom",
+    "album": "Brave Yester Days",
+    "timestamp": "2026-11-03T08:51:55Z",
+    "url": "https://www.last.fm/music/Katatonia/_/Rainroom"
+  },
+  {
     "artist": "Burt Bacharach",
     "track": "Not Goin' Home Anymore (Reprise)",
     "album": "Butch Cassidy and the Sundance Kid (Music from the Motion Picture)",
@@ -131,12 +138,5 @@
     "album": "Dead Dance",
     "timestamp": "2026-11-01T19:16:55Z",
     "url": "https://www.last.fm/music/Opez/_/Tristu"
-  },
-  {
-    "artist": "Opez",
-    "track": "Sangoda",
-    "album": "Dead Dance",
-    "timestamp": "2026-11-01T19:14:16Z",
-    "url": "https://www.last.fm/music/Opez/_/Sangoda"
   }
 ]
