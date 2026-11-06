@@ -1,5 +1,12 @@
 [
   {
+    "artist": "Bolt Thrower",
+    "track": "Eternal War",
+    "album": "Realm of Chaos",
+    "timestamp": "2026-11-06T22:42:06Z",
+    "url": "https://www.last.fm/music/Bolt+Thrower/_/Eternal+War"
+  },
+  {
     "artist": "The B‐52’s",
     "track": "Devil in My Car",
     "album": "Wild Planet",
@@ -131,12 +138,5 @@
     "album": "Appointment With His Majesty",
     "timestamp": "2026-11-05T06:26:46Z",
     "url": "https://www.last.fm/music/Burning+Spear/_/Don%27t+Sell+Out"
-  },
-  {
-    "artist": "Burning Spear",
-    "track": "My Island",
-    "album": "Appointment With His Majesty",
-    "timestamp": "2026-11-05T06:21:52Z",
-    "url": "https://www.last.fm/music/Burning+Spear/_/My+Island"
   }
 ]
