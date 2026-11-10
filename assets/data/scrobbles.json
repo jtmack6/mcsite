@@ -1,5 +1,12 @@
 [
   {
+    "artist": "The Angels",
+    "track": "My Boyfriend's Back (Single Version)",
+    "album": "60's Gold",
+    "timestamp": "2026-11-09T23:32:08Z",
+    "url": "https://www.last.fm/music/The+Angels/_/My+Boyfriend%27s+Back+(Single+Version)"
+  },
+  {
     "artist": "The B‐52’s",
     "track": "Planet Claire",
     "album": "The B‐52’s",
@@ -131,12 +138,5 @@
     "album": "Social Limbo",
     "timestamp": "2026-11-09T00:12:40Z",
     "url": "https://www.last.fm/music/Opez/_/Italiana"
-  },
-  {
-    "artist": "The Tormentos",
-    "track": "Ride Sunset Devil",
-    "album": "GO!",
-    "timestamp": "2026-11-09T00:11:56Z",
-    "url": "https://www.last.fm/music/The+Tormentos/_/Ride+Sunset+Devil"
   }
 ]
