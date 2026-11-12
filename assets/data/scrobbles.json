@@ -1,5 +1,19 @@
 [
   {
+    "artist": "The Smashing Pumpkins",
+    "track": "1979",
+    "album": "Mellon Collie And The Infinite Sadness (30th Anniversary Edition)",
+    "timestamp": "2026-11-12T01:12:02Z",
+    "url": "https://www.last.fm/music/The+Smashing+Pumpkins/_/1979"
+  },
+  {
+    "artist": "The Sisters of Mercy",
+    "track": "Temple of Love - 1992",
+    "album": "Some Girls Wander by Mistake",
+    "timestamp": "2026-11-12T01:01:52Z",
+    "url": "https://www.last.fm/music/The+Sisters+of+Mercy/_/Temple+of+Love+-+1992"
+  },
+  {
     "artist": "The Angels",
     "track": "My Boyfriend's Back (Single Version)",
     "album": "60's Gold",
@@ -124,19 +138,5 @@
     "album": "Social Limbo",
     "timestamp": "2026-11-09T00:16:20Z",
     "url": "https://www.last.fm/music/Opez/_/Umbra"
-  },
-  {
-    "artist": "The Tormentos",
-    "track": "An Evening At Fusco's",
-    "album": "GO!",
-    "timestamp": "2026-11-09T00:15:42Z",
-    "url": "https://www.last.fm/music/The+Tormentos/_/An+Evening+At+Fusco%27s"
-  },
-  {
-    "artist": "Opez",
-    "track": "Italiana",
-    "album": "Social Limbo",
-    "timestamp": "2026-11-09T00:12:40Z",
-    "url": "https://www.last.fm/music/Opez/_/Italiana"
   }
 ]
