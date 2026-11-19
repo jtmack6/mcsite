@@ -1,5 +1,12 @@
 [
   {
+    "artist": "The Ghastly Ones",
+    "track": "An Invitation...",
+    "album": "A-Haunting We Will Go-Go",
+    "timestamp": "2026-11-19T08:13:41Z",
+    "url": "https://www.last.fm/music/The+Ghastly+Ones/_/An+Invitation..."
+  },
+  {
     "artist": "The B‐52’s",
     "track": "6060‒842",
     "album": "The B‐52’s",
@@ -131,12 +138,5 @@
     "album": "The Fear",
     "timestamp": "2026-11-18T11:06:14Z",
     "url": "https://www.last.fm/music/Blood+Star/_/The+Fear"
-  },
-  {
-    "artist": "Linton Kwesi Johnson",
-    "track": "Two Sides Of Silence",
-    "album": "Bass Culture",
-    "timestamp": "2026-11-18T09:01:18Z",
-    "url": "https://www.last.fm/music/Linton+Kwesi+Johnson/_/Two+Sides+Of+Silence"
   }
 ]
